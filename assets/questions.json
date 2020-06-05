@@ -1,0 +1,2220 @@
+[
+    {
+        "type": 0,
+        "question": "Sie arbeiten in einem Betrieb, der bisher nicht ausbildet. Welches Argument könnte für die Aufnahme von Auszubildenden sprechen?",
+        "answers": [
+            "Sie können eine gelernte Fachkraft einsparen, da ab dem zweiten Lehrjahr der Auszubildende voll eingesetzt werden muss.",
+            "Sie bilden Fachkräfte aus, die später - auch im eigenen Betrieb - dringend gebraucht werden und übernehmen somit Verantwortung.",
+            "Sie können Fördermittel für die Auszubildenden erhalten, welche die Ausbildungsvergütung übersteigen.",
+            "Auszubildende können auch gut zu nicht betrieblichen Zwecken eingesetzt werden."
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "In der beruflichen Ausbildung wird vom \"Dualen System\" gesprochen. Was ist damit gemeint?",
+        "answers": [
+            "Der Ausbildungsvertrag wird von 2 Parteien (Auszubildende/r und Betrieb) unterschrieben.",
+            "Die IHK führt 2 verschiedene Prüfungen, die praktische und die schriftliche Prüfung, durch.",
+            "Die Berufsausbildung wird durch die Berufsschule und den Ausbildungsbetrieb durchgeführt.",
+            "Die Zusammenarbeit von Betrieb und Industrie- und Handelskammer oder Handwerkskammer wird als \"Duales System\" bezeichnet."
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "In der Berufsausbildung sind die Ausbildungsinhalte festgelegt. Wo können Sie diese Inhalte nachlesen?",
+        "answers": [
+            "Im Ausbildungsberufsbild und Ausbildungsrahmenplan",
+            "Im Ausbildungsberufsbild und Ausbildungsvertrag",
+            "In der Ausbildereignungsverordnung und dem Rahmenstoffplan",
+            "In dem Ausbildungsrahmenplan und den Prüfungsrichtlinien"
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Sie planen einen Ausbildungsplatz neu zu besetzen und erhalten eine Bewerbung von einem jungen Mann ohne Schulabschluss. Dürfen Sie den jungen Mann ohne Schulabschluss ausbilden?",
+        "answers": [
+            "Nein, für eine Ausbildung im Dualen System ist ein Schulabschluss Voraussetzung.",
+            "Nein, da er wahrscheinlich den schulischen Teil nicht schaffen wird.",
+            "Nein, die Berufsschule nimmt ihn ohne Schulabschluss nicht auf.",
+            "Ja, für die Berufsausbildung im \"Dualen System\" gibt es keinen vorgeschriebenen Schulabschluss."
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 0,
+        "question": "Für die Ausbildung des Konditor-Auszubildenden Peter Müller wird ein betrieblicher Ausbildungsplan erstellt. Welcher Faktor ist bei der zeitlichen Einteilung zu berücksichtigen?",
+        "answers": [
+            "Der Urlaub von Peter Müller",
+            "Der Urlaub des Ausbilders",
+            "Die Weihnachtsfeier des Betriebes",
+            "Eine mögliche Erkältung von Peter Müller im Winter"
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Sie verschicken an die Bewerber/innen für den Beruf Bürokauffrau / Bürokaufmann einen Personalfragebogen. Welche Frage darin ist nicht zulässig?",
+        "answers": [
+            "Haben Sie einen Führerschein?",
+            "Liegt eine Schwangerschaft vor?",
+            "Welchen Schulabschluss haben Sie?",
+            "Welche Zensuren haben Sie in den Fächern Mathematik und Physik?"
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "Aufgrund des Personalfragebogens von Aufgabe 6 kommen 8 Bewerber/innen in die engere Auswahl. Welche Aufgabe wäre für einen weiteren Test geeignet?",
+        "answers": [
+            "Sie prüfen mit einem Deutschtest die Sprachkenntnisse.",
+            "Sie prüfen mit einem Sporttest die körperliche Belastbarkeit.",
+            "Sie prüfen mit verschiedenen Tests die naturwissenschaftlichen Kenntnisse.",
+            "Für die Ausbildung als Bürokaufmann / Bürokauffrau ist hauptsächlich technisches Verständnis erforderlich, das geprüft werden muss."
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Aufgrund der Testaufgaben in Aufgabe 7 hat sich eine geeignete Bewerberin herausgestellt. Jutta Müller ist 19 Jahre und freut sich auf ihre Ausbildung. Sie wollen mit ihr einen Ausbildungsvertrag abschließen. Welche Aussage ist richtig?",
+        "answers": [
+            "Der Ausbildungsvertrag kommt zustande durch die Unterschrift von Jutta Müller und dem Vertreter des Ausbildungsbetriebes.",
+            "Der Ausbildungsvertrag bedarf der Unterschrift der Eltern von Jutta Müller, da diese sie finanziell unterstützen.",
+            "Der Ausbildungsvertrag bedarf einer besonderen Form, da Jutta Müller schon volljährig ist.",
+            "Ein mündlich geschlossener Ausbildungsvertrag zwischen Jutta Müller und dem Ausbildungsbetrieb wäre unwirksam."
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Wie lange darf die Probezeit im Berufsausbildungsvertrag nach dem Berufsbildungsgesetz dauern?",
+        "answers": [
+            "Die Probezeit beträgt 3 Monate.",
+            "Die Probezeit liegt zwischen 1 Monat und 6 Monaten.",
+            "Die Probezeit beträgt 4 Monate.",
+            "Die Probezeit muss zwischen 1 Monat und 4 Monaten liegen."
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 0,
+        "question": "Ist eine Verlängerung der Probezeit möglich? Welche Aussage ist zutreffend?",
+        "answers": [
+            "Eine Verlängerung ist nicht vorgesehen, da der Auszubildende besonderen Schutz genießt.",
+            "Eine Verlängerung ist möglich, wenn noch nicht absehbar ist, ob der Auszubildende geeignet ist.",
+            "Eine Verlängerung ist möglich, wenn der Auszubildende 1/3 der Ausbildungszeit ausfällt, z. B. durch Krankheit. Dies muss vorher vereinbart worden sein.",
+            "Eine Verlängerung ist möglich, wenn beide Parteien dies möchten."
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Sie möchten Hannelore Haase einen Ausbildungsplatz als Kauffrau im Einzelhandel anbieten. Sie ist am 26. April 17 Jahre alt geworden. Wie hoch ist ihr Urlaubsanspruch?",
+        "answers": [
+            "Mindestens 30 Werktage",
+            "Mindestens 25 Werktage",
+            "Mindestens 27 Werktage",
+            "Mindestens 23 Werktage"
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Ein Bewerber möchte seine Ausbildung zum Kaufmann für Bürokommunikation verkürzen. In welchem Fall wäre das möglich?",
+        "answers": [
+            "Mit Abitur wäre eine Kürzung um 12 Monate möglich.",
+            "Mit einem guten Hauptschulabschluss ist eine Kürzung um 9 Monate anzustreben.",
+            "Eine Kürzung der Ausbildungszeit ist generell nicht möglich.",
+            "Eine Kürzung ist nur innerhalb der Ausbildung durch gute Leistungen nach § 45 Berufsbildungsgesetz möglich. "
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Für die Berufsausbildung ist eine „sachliche und zeitliche Gliederung“ zu erstellen. Welches ist die Rechtsgrundlage dafür?",
+        "answers": [
+            "Der Rahmenlehrplan",
+            "Das Bürgerliche Gesetzbuch (BGB)",
+            "Das Tarifvertragsgesetz",
+            "Das Berufsbildungsgesetz"
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 0,
+        "question": "Sie sind neu in einem größeren Betrieb mit Betriebsrat und Jugend- und Auszubildendenvertretung und werden dort auch als Ausbilder/in eingesetzt. Kann der Betriebsrat auf Ihre Ausbildungsmethoden Einfluß nehmen?",
+        "answers": [
+            "Der Betriebsrat hat ein Mitspracherecht.",
+            "Der Betriebsrat muss vor der Ausbildung gehört werden.",
+            "Der Betriebsrat kann Vorschläge unterbreiten, auf die ein/e Ausbilder/in eingehen kann, aber nicht muss.",
+            "Der Betriebsrat muss Ihren Ausbildungsmethoden zustimmen."
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Welche Regelung steht im Betriebsverfassungsgesetz?",
+        "answers": [
+            "Der Betriebsrat ist vor jeder Kündigung zu hören.",
+            "Die Vereinbarung von Vertragsstrafen im Ausbildungsverhältnis ist verboten.",
+            "Der Mindesturlaubsanspruch für Jugendliche",
+            "Pausenregelung für volljährige Auszubildende"
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 1,
+        "question": "Welche Aufgaben hat die Berufsschule im Dualen System? (2 richtige Antworten)",
+        "answers": [
+            "Vermittlung von beruflichen Fachwissen",
+            "Vermittlung von Fertigkeiten im Beruf",
+            "Erweiterung der allgemeinen Bildung",
+            "Planung der betrieblichen Ausbildung"
+        ],
+        "answer": "a,c"
+    },
+    {
+        "type": 1,
+        "question": "Welche Aussagen zur Ausbildungsordnung sind richtig? (2 richtige Antworten)",
+        "answers": [
+            "Die Ausbildungsordnung regelt den Schutz der Jugend in der Berufsausbildung.",
+            "Die Ausbildungsordnung sichert bundeseinheitliche Ausbildungsstandards.",
+            "Die Ausbildungsordnung führt zu verschiedenen Ausbildungsstandards der Bundesländer.",
+            "In der Ausbildungsordnung ist die Ausbildungsdauer des Berufes geregelt."
+        ],
+        "answer": "b,d"
+    },
+    {
+        "type": 0,
+        "question": "Welche rechtlichen Anforderungen werden an den Ausbildenden gestellt? (1 richtige Antwort)",
+        "answers": [
+            "Der Ausbildende muss persönlich geeignet sein.",
+            "Der Ausbildende muss das 22. Lebensjahr vollendet haben.",
+            "Der Ausbildende muss die Ausbildung persönlich vornehmen.",
+            "Der Ausbildende übernimmt die Ausbildung im theoretischen Bereich."
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 1,
+        "question": "Welche Anforderungen werden an den Ausbilder gestellt? (3 richtige Antworten)",
+        "answers": [
+            "Der Ausbilder muss fachlich kompetent sein.",
+            "Er soll Erfahrung im Umgang mit jungen Menschen haben.",
+            "Er sollte gezielt die passenden Ausbildungsmethoden einsetzen.",
+            "Er muss Mitglied im Prüfungsausschuss der zuständigen Stelle sein."
+        ],
+        "answer": "a,b,c"
+    },
+    {
+        "type": 1,
+        "question": "Welche Aufgaben hat der Ausbildungsberater der zuständigen Stelle? (2 richtige Antworten)",
+        "answers": [
+            "Überwachung der Berufsschule",
+            "Beratung von Auszubildenden",
+            "Bereitstellung von Informationen für Ausbildenden, z. B. Einführung neuer Berufe",
+            "Überwachung des Prüfungsausschusses"
+        ],
+        "answer": "b,c"
+    },
+    {
+        "type": 0,
+        "question": "Von welcher Stelle werden die Rahmenlehrpläne der Berufsschule erlassen? (1 richtige Antwort)",
+        "answers": [
+            "Industrie- und Handelskammer",
+            "Berufsbildungsausschuss",
+            "Bundeswirtschaftsministerium",
+            "Kultusministerium des Bundeslandes"
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 2,
+        "question": "Ordnen Sie die Stichpunkte der Rechtsgrundlage entsprechend zu.",
+        "answers": [
+            "1) Dauer der Ausbildungszeit",
+            "2) Zusammensetzung des Prüfungsausschusses",
+            "3) Anforderungen in der Zwischen- und Abschlussprüfung",
+            "4) Mitbestimmung des Betriebsrates",
+            "5) Regelung der Pausen bei Jugendlichen",
+            "6) Erstuntersuchung, Nachuntersuchung bei jugendlichen Auszubildenden",
+            "a) Betriebsverfassungsgesetz",
+            "b) Jugendarbeitsschutzgesetz",
+            "c) Ausbildungsordnung",
+            "d) Prüfungsordnung der zuständigen Stelle"
+        ],
+        "answer": "1c,2d,3c,4a,5b,6b"
+    },
+    {
+        "type": 1,
+        "question": "Welche Aussagen zum Ausbildungsrahmenplan sind richtig? (2 richtige Antworten)",
+        "answers": [
+            "Der Ausbildungsrahmenplan ist Bestandteil der Ausbildungsordnung.",
+            "Im Ausbildungsrahmenplan werden die Lernziele für den Unterricht der Berufsschulen festgelegt.",
+            "Im Ausbildungsrahmenplan wird der Ablauf der Zwischen- und Abschlussprüfung geregelt.",
+            "Der Ausbildungsrahmenplan bildet die Grundlage für die sachliche und zeitliche Gliederung, die für einen Ausbildungsvertrag vorgeschrieben ist."
+        ],
+        "answer": "a,d"
+    },
+    {
+        "type": 1,
+        "question": "Welche Kennzeichen treffen für einen „Monoberuf“ zu? (2 richtige Antworten)",
+        "answers": [
+            "Es gibt eine Spezialisierung nach Fachrichtungen.",
+            "Es erfolgt eine Spezialisierung nach Schwerpunkten.",
+            "Es erfolgt eine einheitliche Abschlussprüfung",
+            "Die Ausbildung ist für alle in allen Ausbildungsjahren gleich."
+        ],
+        "answer": "c,d"
+    },
+    {
+        "type": 1,
+        "question": "Was ist die Besonderheit an „Dualen Studiengängen“? (2 richtige Antworten)",
+        "answers": [
+            "Beim dualen Studium werden zwei Studiengänge gleichzeitig belegt.",
+            "Ein duales Studium hat meist einen hohen Praxisbezug.",
+            "Es werden die Lernorte Hochschule / Akademie und Betrieb verbunden.",
+            "Nach Abschluss des dualen Studienganges werden nur sehr wenige Studenten vom Betrieb übernommen."
+        ],
+        "answer": "b,c"
+    },
+    {
+        "type": 0,
+        "question": "Bei einem Ausbildungsberuf erfolgt nach 2-jähriger Ausbildung eine Abschlussprüfung. Darauf aufbauend kann nach einem Jahr ein weiterer Berufsabschluss erworben werden. Wie nennt sich diese Ausbildung? (1 richtige Antwort)",
+        "answers": [
+            "Beruf mit Spezialisierung nach Schwerpunkten",
+            "Monoberuf",
+            "Stufenausbildung",
+            "Ausbildung mit Spezialisierung nach Fachrichtung"
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 2,
+        "question": "In den §§ 29 und 30 BBiG werden Aussagen zur persönlichen und fachlichen Eignung getätigt. Ordnen Sie entsprechend Eignungsmerkmale zu.",
+        "answers": [
+            "1) …geeignet ist, wer die erforderlichen beruflichen Kenntnisse und Fähigkeiten besitzt.",
+            "2) …nicht geeignet ist, wer Kinder und Jugendliche nicht beschäftigen darf.",
+            "3) …nicht geeignet ist, wer wiederholt oder schwer gegen dieses Gesetz oder die auf Grund dieses Gesetzes erlassenen Vorschriften und Bestimmungen verstoßen hat.",
+            "4) … geeignet ist, wer eine Abschlussprüfung an einer deutschen Hochschule in einer dem Ausbildungsberuf entsprechenden Fachrichtung bestanden hat.",
+            "a) persönliche Eignung",
+            "b) fachliche Eignung "
+        ],
+        "answer": "1b,2a,3a,4b"
+    },
+    {
+        "type": 0,
+        "question": "Wer ist für die Überwachung der Eignung des Ausbildungsbetriebes zuständig? (1 richtige Antwort)",
+        "answers": [
+            "Berufsschule",
+            "Kultusministerium",
+            "Gewerkschaft",
+            "Zuständige Stelle"
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 0,
+        "question": "Verstöße gegen Eignungsvoraussetzungen können laut § 102 des BBiG mit Geldstrafen belegt werden. Wie hoch kann diese Geldstrafe sein? (1 richtige Antwort)",
+        "answers": [
+            "bis zu 500,00 €",
+            "bis zu 2500,00 €",
+            "bis zu 5000,00 €",
+            "bis zu 10.000,00 €"
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 1,
+        "question": "Welche Aufgaben hat das Bundesinstitut für Berufsbildung? (2 richtige Antworten)",
+        "answers": [
+            "Neue Wege der Aus- und Weiterbildung zu erproben",
+            "Abnahme der Ausbildereignungsprüfung",
+            "Begutachtung der Qualität des beruflichen Fernlehrangebots",
+            "Überwachung der zuständigen Stellen"
+        ],
+        "answer": "a,c"
+    },
+    {
+        "type": 0,
+        "question": "Welche Regelung im Ausbildungsvertrag wäre nicht mit geltendem Recht zu vereinbaren und ist somit nichtig?",
+        "answers": [
+            "Eine Festlegung von Vertragsstrafen bei Verletzung des Ausbildungsvertrages",
+            "Die Angabe der Urlaubstage",
+            "Die Dauer der Probezeit",
+            "Die Höhe der Ausbildungsvergütung"
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Die Dauer der Ausbildung kann für verschiedene Berufe unterschiedlich sein. Nach welcher Rechtsgrundlage richtet sich die Dauer der Ausbildung?",
+        "answers": [
+            "Betriebsverfassungsgesetz",
+            "Ausbildereignungsverordnung",
+            "Ausbildungsordnung",
+            "Handelsgesetzbuch"
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Wo finden Sie Regelungen zur Arbeitszeit?",
+        "answers": [
+            "Im Handelsgesetzbuch",
+            "Im Tarifvertrag",
+            "In der Landesverfassung",
+            "Im Bürgerlichem Gesetzbuch"
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "Zurzeit werden Ihre Auszubildenden in verschiedenen Werkstätten direkt in der Produktion ausgebildet. Welchen Vorteil hat das?",
+        "answers": [
+            "Es sind keine Ausbilder erforderlich, da der Auszubildende \"nebenbei\" ausgebildet werden kann.",
+            "Die Produktion kann auf die Ausbildungsinhalte abgestimmt werden.",
+            "Die Produktion kann bei Fragen des Auszubildenden jederzeit unterbrochen werden.",
+            "Die Ausbildung hat direkt am Arbeitsplatz einen hohen Praxisbezug."
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 0,
+        "question": "Sie überlegen, die Auszubildenden nicht in einzelnen Werkstätten auszubilden, sondern einen zentralen Lernort zu schaffen. Welches wäre ein Vorteil?",
+        "answers": [
+            "Der Praxisbezug wird erhöht, da in einer Lehrwerkstatt ausgebildet wird.",
+            "Es ist kein Ausbilder notwendig. Die Auszubildenden im dritten Lehrjahr unterrichten die \"Anfänger\".",
+            "Gerade zu Beginn der Ausbildung können die Auszubildenden Grundfertigkeiten ohne  Zeitdruck erlernen.",
+            "Die Ausbildungszeit kann verkürzt werden, da intensiv auf die Prüfung hingearbeitet werden kann."
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Hotelfachleute sollen in einem Hotel \"garni\" (Hotel nur mit Frühstück) ausgebildet werden. Zum Berufsbild gehört auch die \"Arbeit im Restaurant\". Dieser Bereich kann somit nicht vollständig vermittelt werden. Welche Aussage ist richtig?",
+        "answers": [
+            "Der Ausbildungsbestandteil \"Arbeit im Restaurant\" kann auch in einem Partnerrestaurant durchgeführt werden.",
+            "Eine Ausbildung zum Hotelfachmann / Hotelfachfrau ist in dem Hotel \"garni\" nicht möglich.",
+            "Auf den Ausbildungsteil \"Arbeit im Restaurant\" kann verzichtet werden, wenn der Auszubildende dies rechtzeitig vor Beginn der Ausbildung erfährt.",
+            "Der Schwerpunkt der Ausbildung liegt im Empfangsbereich. Es kann somit auf diesen Teil verzichtet werden."
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Sonny Sunshine ist 17 Jahre alt und beginnt eine Ausbildung als Friseurin. Wie lange darf Sonny ohne Pause arbeiten?",
+        "answers": [
+            "Spätestens nach 3,5 Stunden Arbeitszeit muss eine Pause gewährt werden.",
+            "Spätestens nach 4,5 Stunden Arbeitszeit muss eine Pause gewährt werden.",
+            "Spätestens nach 3 Stunden Arbeitszeit muss eine Pause gewährt werden.",
+            "Spätestens nach 4 Stunden Arbeitszeit muss eine Pause gewährt werden."
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "Sonny Sunshine hat eine tägliche Arbeitszeit von 8 Stunden. Wie hoch ist der Pausenanspruch und wie lang muss die Pause mindestens sein?",
+        "answers": [
+            "Sonny hat Anspruch auf 60 Minuten Pause. Eine Pause muss mindestens 10 Min. lang sein.",
+            "Sonny hat Anspruch auf 45 Minuten Pause. Eine Pause muss mindestens 15 Min. lang sein.",
+            "Sonny hat Anspruch auf 90 Minuten Pause. Eine Pause muss mindestens 10 Min. lang sein.",
+            "Sonny hat Anspruch auf 60 Minuten Pause. Eine Pause muss mindestens 15 Min. lang sein."
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 0,
+        "question": "Hanna Haase (16 Jahre) macht eine Ausbildung als Hotelfachfrau. Im Hotelgewerbe wird auch im Schichtdienst gearbeitet. Ist es erlaubt, dass Hanna nach einem Spätdienst am nächsten Tag einen Frühdienst antreten muss?",
+        "answers": [
+            "Nein, nach einem Spätdienst dürfen Auszubildende keinen Frühdienst machen.",
+            "Nein, bei einem Wechsel von Spätdienst auf Frühdienst muss ein freier Tag eingebunden werden.",
+            "Ja, es müssen aber 12 Stunden Freizeit zwischen den Schichten gewährt werden.",
+            "Ja, es müssen aber 15 Stunden Freizeit zwischen den Schichten gewährt werden."
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Hanna Haase hat 1 x die Woche Berufsschule. Wie wird diese Zeit auf die Arbeitszeit angerechnet?",
+        "answers": [
+            "Ein Berufsschultag mit mehr als 5 Stunden wird mit 8 Std. auf die Arbeitszeit angerechnet.",
+            "Ein Berufsschultag mit mehr als 4 Stunden wird mit 7 Std. auf die Arbeitszeit angerechnet.",
+            "Ein Berufsschultag mit mehr als 6 Stunden wird mit 8 Std. auf die Arbeitszeit angerechnet.",
+            "Ein Berufsschultag mit mehr als 4 Stunden wird mit 6 Std. auf die Arbeitszeit angerechnet."
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Wer wählt die Jugend- und Auszubildendenvertretung?",
+        "answers": [
+            "Nur die Mitarbeiter des Betriebes unter 18 Jahre",
+            "Alle Auszubildenden unter 25 und die Arbeitnehmer unter 18 Jahre",
+            "Alle Mitarbeiter des Betriebes unter 25 Jahre",
+            "Nur die Auszubildenden unter 21 Jahre"
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "In welchem Abstand wird die Vertretung der Jugendlichen und Auszubildenden gewählt?",
+        "answers": [
+            "Nach Bedarf",
+            "Alle 4 Jahre",
+            "Alle 3 Jahre",
+            "Alle 2 Jahre"
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 0,
+        "question": "Welcher Plan ordnet die Vorgaben des Ausbildungsrahmenplans den betrieblichen Lernorten zu?",
+        "answers": [
+            "Dienstplan",
+            "Rahmenlehrplan",
+            "Betrieblicher Ausbildungsplan",
+            "Arbeitsablaufplan"
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Welche Aussage zum betrieblichen Ausbildungsplan ist nicht richtig?",
+        "answers": [
+            "Bei der sachlichen Gliederung müssen die Anforderungen zur Zwischenprüfung berücksichtigt werden.",
+            "Der Rahmenlehrplan der Berufsschule braucht nicht berücksichtigt zu werden.",
+            "Die betriebliche Ausbildung muss mit außerbetrieblichen Ausbildungsgängen abgestimmt werden.",
+            "Alle Fertigkeiten und Kenntnisse aus dem Ausbildungsrahmenplan müssen übernommen werden."
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "Die Ausbildungsplanung soll sich von „didaktischen Strategien“ leiten lassen. Was ist damit gemeint?",
+        "answers": [
+            "Der Auszubildende soll sich alles selber erarbeiten.",
+            "Der Auszubildende sollte Fragen nur in der Berufsschule stellen.",
+            "Das Führen des Berichtheftes sollte außerhalb der Arbeitszeit erfolgen.",
+            "Es sollten bestimmte Prinzipien angewandt werden, z. B. „Vom Einfachen zum Schweren, vom Allgemeinen zum Speziellen“."
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 1,
+        "question": "Welche Aussagen zum betrieblichen Ausbildungsplan sind richtig? (2 richtige Antworten)",
+        "answers": [
+            "Der betriebliche Ausbildungsplan ist Bestandteil des Ausbildungsvertrages.",
+            "Nicht vermittelte Fertigkeiten sind an die Berufsschule zu melden.",
+            "Um die Lernziele zu erreichen sind geeignete Ausbildungsformen zu ergreifen.",
+            "Größere Ausbildungsabschnitte sollen nicht in kleinere Abschnitte zerteilt werden."
+        ],
+        "answer": "a,c"
+    },
+    {
+        "type": 0,
+        "question": "Ein Produktionsbereich wird ins Ausland verlagert. Bestimmte vorgeschriebene Ausbildungsinhalte können somit nicht mehr vermittelt werden. Was bedeutet das für die Ausbildung? (1 richtige Antwort)",
+        "answers": [
+            "Der Ausbildungsvertrag muss entsprechend geändert werden.",
+            "Die Vermittlung der vorgeschriebenen Ausbildungsinhalte, die durch die Verlagerung weggefallen sind, kann in einem Kooperationsbetrieb oder in einer außerbetrieblichen Maßnahme erfolgen.",
+            "Die nicht vermittelten Inhalte sind bei der Prüfungsanmeldung zu vermerken.",
+            "Der Ausbildungsvertrag kann außerordentlich gekündigt werden."
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 2,
+        "question": "Bei der Auswahl neuer Auszubildenden kann nach Schlüsselqualifikation und fachlicher Qualifikation unterschieden werden. Ordnen Sie entsprechend zu.",
+        "answers": [
+            "1) Zuverlässigkeit",
+            "2) Rechtschreibung",
+            "3) Verantwortungsbewusstsein",
+            "4) Note in Physik",
+            "5) Logisches Denken",
+            "a) Schlüsselqualifikation",
+            "b) Fachliche Qualifikation"
+        ],
+        "answer": "1a,2b,3a,4b,5a"
+    },
+    {
+        "type": 0,
+        "question": "Die Firma KFZ-Müller sucht 2 neue Auszubildende als KFZ-Mechatroniker. In welchem Schulfach wären gute Noten wünschenswert? (1 richtige Antwort)",
+        "answers": [
+            "Deutsch",
+            "Geschichte",
+            "Englisch",
+            "Physik"
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 0,
+        "question": "Peter Müller bewirbt sich für die Ausbildung als Tischler. Welche Bedeutung hat das Schulzeugnis bei der Bewertung der Eignung für den Ausbildungsplatz? (1 richtige Antwort)",
+        "answers": [
+            "Es hat keine Bedeutung, da er keine kaufmännische Ausbildung anstrebt.",
+            "Peter Müller sollte mindestens einen Realschulabschluss vorweisen.",
+            "Die schulischen Vorkenntnisse sollten ausreichen, um das Ausbildungsziel erreichen zu können.",
+            "Peter Müller sollte mindestens einen guten Hauptschulabschluss vorweisen."
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 1,
+        "question": "Welche Unterlagen gehören zu einer ordentlichen Bewerbung? (3 richtige Antworten)",
+        "answers": [
+            "Lebenslauf",
+            "letzte Schulzeugnisse",
+            "Kopie des Personalausweises",
+            "Bewerbungsschreiben"
+        ],
+        "answer": "a,b,d"
+    },
+    {
+        "type": 1,
+        "question": "Welche Punkte sollten in einem Bewerbungsgespräch beachtet werden? (2 richtige Antworten)",
+        "answers": [
+            "Es sollte bei weiblichen Bewerbern nach einer Schwangerschaft gefragt werden, da dies eine  ordnungsgemäße Ausbildung verhindert.",
+            "Es sollten die Vermögensverhältnissen des Bewerbers erörtert werden.",
+            "Das Gespräch sollte mit einem Thema eröffnet werden, das eine mögliche Befangenheit / Angst des Bewerbers abbaut.",
+            "Wesentliche Ergebnisse des Gesprächs sollten notiert werden."
+        ],
+        "answer": "c,d"
+    },
+    {
+        "type": 1,
+        "question": "Welche Maßnahmen im Bereich „Ausbildungsmarketing“ können als erfolgsversprechend angesehen werden? (2 richtige Antworten)",
+        "answers": [
+            "(lokale) Kinowerbung",
+            "Stellenanzeige in einer großen, überregionalen Wirtschaftszeitung schalten.",
+            "Teilnahme am „Girls Day“, um vor allem Mädchen für technische Berufe zu informieren.",
+            "Plakate in der Berufsschule aufhängen."
+        ],
+        "answer": "a,c"
+    },
+    {
+        "type": 1,
+        "question": "Das Hotel „Schöne Aussicht“ in Neustadt möchte der 20-jährigen Abiturientin Silvia Miwitz einen Ausbildungsplatz anbieten. Silvia Miwitz hat ein gutes Zeugnis und möchte die Ausbildung verkürzen. Welche Aussagen sind richtig? (2 richtige Antworten)",
+        "answers": [
+            "Der Abschluss des Gymnasiums wird generell mit 8 Monaten angerechnet.",
+            "Die Ausbildungsdauer kann verkürzt werden.",
+            "Die zuständige Stelle, in diesem Fall die IHK, entscheidet über den Antrag.",
+            "Die Zustimmung der Berufsschule muss eingeholt werden."
+        ],
+        "answer": "b,c"
+    },
+    {
+        "type": 1,
+        "question": "Welches sind Gründe, die nach § 8 BBiG zu einer Verkürzung der Ausbildung bei Vertragsabschluss führen können. (2 richtige Antworten)",
+        "answers": [
+            "Nachweis einer einschlägigen beruflichen Grundbildung im Berufsfeld.",
+            "Empfehlung des Klassenlehrers einer allgemeinbildenden Schule.",
+            "Notwendigkeiten im Ausbildungsbetrieb, z. B. baldige Verlagerung eines Betriebsteils.",
+            "Bei Fortsetzung der Berufsausbildung in demselben Beruf kann die zurückgelegte Ausbildungszeit ganz oder teilweise für eine Kürzung berücksichtigt werden."
+        ],
+        "answer": "a,d"
+    },
+    {
+        "type": 0,
+        "question": "Eine 3-jährige Ausbildung soll, auch wenn mehrere Verkürzungsgründe vorliegen, folgende Zeit nicht unterschreiten. (1 richtige Antwort)",
+        "answers": [
+            "12 Monate",
+            "20 Monate",
+            "18 Monate",
+            "24 Monate"
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Michael Müller hat die Realschule mit gutem Zeugnis abgeschlossen. Danach hat er 18 Monate ein Gymnasium besucht, allerdings ohne Abschluss. Er fragt, ob es eine Möglichkeit gibt, die Ausbildung zu verkürzen. (1 richtige Antwort)",
+        "answers": [
+            "Die Ausbildung kann nicht verkürzt werden, da kein Abitur vorliegt.",
+            "Eine Verkürzung ist aufgrund des Schulabschlusses (Mittlere Reife) um 6 Monate möglich.",
+            "Eine Verkürzung ist aufgrund des Schulabschlusses (Mittlere Reife) um 12 Monate möglich.",
+            "Eine Verkürzung ist nach einem vorherigen Test der Berufsschule um 6 Monate möglich."
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 1,
+        "question": "Welche Pflichten hat der Ausbildende nach Abschluss des Berufsausbildungsvertrags unverzüglich zu erledigen? (2 richtige Antworten)",
+        "answers": [
+            "Er muss den wesentlichen Inhalt des Vertrages niederlegen.",
+            "Er muss dem Auszubildenden den verantwortlichen Ausbilder benennen.",
+            "Er muss dem Auszubildenden oder deren gesetzlichen Vertreter eine Abschrift des Vertrages aushändigen.",
+            "Er muss dem Auszubildenden unverzüglich die notwendigen Berichtshefte zuschicken."
+        ],
+        "answer": "a,c"
+    },
+    {
+        "type": 0,
+        "question": "Wer muss die Eintragung des Berufsausbildungsverhältnisses bei der zuständigen Stelle beantragen und wann hat das zu geschehen? (1 richtige Antwort)",
+        "answers": [
+            "Der Auszubildende oder deren gesetzlicher Vertreter wird von der zuständigen Stelle zur  intragung aufgefordert.",
+            "Die Berufsschule stellt den Antrag nach Überprüfung des Ausbildungsvertrages.",
+            "Der Ausbildende muss den Antrag 4 Wochen nach Abschluss des Ausbildungsvertrages stellen.",
+            "Der Ausbildende muss den Antrag unverzüglich nach Abschluss des Ausbildungsvertrages stellen."
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 1,
+        "question": "Welche Aussagen zur „Ärztlichen Mitteilung“ für jugendliche Auszubildende sind richtig? (2 richtige Antwort)",
+        "answers": [
+            "Die gesetzliche Grundlage ist das Betriebsverfassungsgesetz.",
+            "Die Erstuntersuchung muss innerhalb der letzten 14 Monate vor Eintritt in das Berufsleben erfolgt sein.",
+            "Die Erstuntersuchung muss innerhalb der letzten 6 Monate vor Eintritt in das Berufsleben erfolgt sein.",
+            "Die gesetzliche Grundlage ist das Jugendarbeitsschutzgesetz."
+        ],
+        "answer": "b,d"
+    },
+    {
+        "type": 0,
+        "question": "Sie sind für die Begrüßung der neuen Auszubildenden verantwortlich. Welche Maßnahme wäre nicht für den ersten Arbeitstag geeignet?",
+        "answers": [
+            "Erste Informationen zu den einzelnen Abteilungen des Betriebes geben.",
+            "Informationen zur Führung des Ausbildungsnachweises geben.",
+            "Vorstellung aller 60 Mitarbeiter/innen des Betriebes.",
+            "Erste Arbeitsschritte zur Einarbeitung in der Berufsausbildung nennen."
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Der Auszubildende Andreas kann Zusammenhänge nicht immer richtig erfassen. Darum soll er mit der Auszubildenden Rita bei einem Projekt zusammenarbeiten. Wie verhalten Sie sich als Ausbilder beim \"selbstgesteuerten Lernen\"?",
+        "answers": [
+            "Sie greifen sofort ein, wenn es zu Fehlern kommt.",
+            "Sie bereiten alles sehr sorgfältig und bis ins Detail geplant vor.",
+            "Sie stehen für Nachfragen bezüglich des Projektes nicht zur Verfügung.",
+            "Sie bereiten das Projekt entsprechend vor, damit es von den beiden selbständig erarbeitet werden kann."
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 0,
+        "question": "Als Ausbilder wollen Sie auch die sozialen Kompetenzen Ihrer Auszubildenden fördern. Was ist damit gemeint?",
+        "answers": [
+            "Die Auszubildenden sollen lernen, dass man - z. B. bei der Urlaubsbesprechung - auch Kompromisse eingehen muss.",
+            "Die Auszubildenden sollten ihre Ansicht auf jeden Fall durchsetzen.",
+            "Die Auszubildenden müssen analytisch denken lernen.",
+            "Die Belastbarkeit des Auszubildenden sollte im Rahmen der Ausbildung gesteigert werden."
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Die Auszubildende zur Bürokauffrau hat nach der Unterweisung die Bestellung von Papier selbständig nach den Richtlinien des Unternehmens zu erstellen. Um welches Lernziel handelt es sich?",
+        "answers": [
+            "Richtlernziel",
+            "Feinlernziel",
+            "Groblernziel",
+            "Ausbildungsziel"
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "Welche Aussage zum \"kognitiven Lernbereich\" ist richtig?",
+        "answers": [
+            "Er bezieht sich auf das Wissen und die intellektuellen Fähigkeiten.",
+            "Er bezieht sich auf die psychomotorischen Fähigkeiten.",
+            "Er bezieht sich auf die innere Einstellung und Werthaltung.",
+            "Er bezieht sich auf die manuellen Fähigkeiten, z.B. die Geschicklichkeit."
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Durch eine Lerneinheit soll die positive Veränderung der inneren Einstellung und der Werthaltung erreicht werden. Wie wird dieser Lernbereich genannt?",
+        "answers": [
+            "Kognitiver Lernbereich",
+            "Psychomotorischer Lernbereich",
+            "Affektiver Lernbereich",
+            "Motorischer Lernbereich"
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Sie melden eine Auszubildende zur Zwischenprüfung an. Welche Aussage ist richtig?",
+        "answers": [
+            "Eine schlechte Zwischenprüfung kann zu einer Beendigung des Ausbildungsvertrages führen.",
+            "Die Noten der Zwischenprüfung haben einen großen Einfluss auf das Zeugnis der Berufsschule.",
+            "Das „Nichtbestehen“ der Zwischenprüfung hat die „Nichtzulassung“ zur Abschlussprüfung zur Folge.",
+            "Die Teilnahme an der Zwischenprüfung ist Voraussetzung für die Teilnahme an der Abschlussprüfung."
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 0,
+        "question": "Sie wenden die \"4-Stufen-Methode\" an. Durch welches Beispiel wird diese Methode richtig dargestellt?",
+        "answers": [
+            "Vorbereiten - Nachmachen - Üben - Kontrolle",
+            "Vorbereiten - Vormachen - Nachmachen - Üben",
+            "Vorbereiten - Vormachen - Üben - Nachmachen",
+            "Vorbereiten - Üben - Nachmachen - Üben"
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "Welche Aufgabe haben Sie als Ausbilder bei der Stufe 3 der \"4-Stufen-Methode\"?",
+        "answers": [
+            "Sie beobachten den Auszubildenden beim Nachmachen.",
+            "Sie erklären während dieses Schrittes fortwährend die Arbeitsgänge.",
+            "Sie machen einzelne Arbeitsschritte fachgerecht vor.",
+            "Sie lassen sich vom Auszubildenden den Arbeitsablauf begründen."
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Sie möchten einen Beamer in Ihren Unterricht einbinden. Für welches Beispiel wäre er geeignet?",
+        "answers": [
+            "Sie möchten die Funktionsweise eines Dieselmotors erklären.",
+            "Sie arbeiten praktisch mit der Gruppe und möchten das Bedienen der Telefonanlage erklären.",
+            "Sie erklären mit einem Organigramm die Zusammenhänge einzelner Abteilungen im Betrieb.",
+            "Sie möchten den Zusammenhalt in der Gruppe stärken."
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Eine minderjährige Auszubildende hat in ihren Leistungen nachgelassen und arbeitet unkonzentriert. Dies hat auch schon zu Fehlern geführt und den Arbeitsablauf gestört. Wie verhalten Sie sich als Ausbilder?",
+        "answers": [
+            "Sie sprechen die Eltern der Auszubildenden an und fragen dort nach \"Familienstörungen\".",
+            "Sie weisen der Auszubildenden nur noch Tätigkeiten zu, die leicht zu erfüllen sind.",
+            "Sie erhöhen die Kontrolle und geben etwas \"Druck\", um die Fehlerrate zu senken.",
+            "Sie suchen das Gespräch mit der Auszubildenden, um die Konzentrationsschwächen durch geeignete Maßnahmen abzubauen."
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 0,
+        "question": "Die Auszubildenden sollten regelmäßig beurteilt werden. Welcher Faktor sollte bei der Beurteilung keine Rolle spielen?",
+        "answers": [
+            "Verhalten gegenüber anderen Auszubildenden",
+            "Führungsfähigkeit",
+            "Motivation / Arbeitseinstellung",
+            "Ausführung der zugewiesenen Arbeiten"
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "Die Leistungsfähigkeit und Leistungsbereitschaft schwankt im Laufe des Tages. In welchem Zeitraum ist in der Regel die höchste Leistungsfähigkeit zu erwarten?",
+        "answers": [
+            "Zwischen 6.30 Uhr und 9.30 Uhr",
+            "Zwischen 14.00 Uhr und 17.00 Uhr",
+            "Zwischen 8.00 Uhr und 11.00 Uhr",
+            "Zwischen 12.00 Uhr und 15.00 Uhr "
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Welche Aussage zur Probezeit ist richtig?",
+        "answers": [
+            "Am Ende der Probezeit sollte ein Beurteilungsgespräch stattfinden.",
+            "Die Probezeit dauert mindestens 1 Monat und höchstens 6 Monate.",
+            "Während der Probezeit sollten möglichst keine Gespräche mit dem Auszubildenden geführt werden.",
+            "In der Probezeit sollte der Auszubildende möglichst allein arbeiten, um die Selbständigkeit zu steigern."
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Wie hoch ist der Prozentsatz von Ausbildungsverhältnissen, die schon während der Probezeit gelöst werden?",
+        "answers": [
+            "2 %",
+            "6 %",
+            "12 %",
+            "25 %"
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 1,
+        "question": "Durch welche Merkmale sind Richtlernziele gekennzeichnet? (2 richtige Antworten)",
+        "answers": [
+            "Sie beziehen sich auf übergeordnete Lernziele.",
+            "Sie beziehen sich auf die Details des Ausbildungsthemas.",
+            "Sie geben die Richtung an und sind eher allgemein gehalten.",
+            "Sie beziehen sich auf kleinere Bereiche im Ausbildungsinhalt."
+        ],
+        "answer": "a,c"
+    },
+    {
+        "type": 2,
+        "question": "Ordnen Sie die folgenden Lernziele entsprechend zu.",
+        "answers": [
+            "1) Der Auszubildende soll einen diktierten Geschäftsbrief (Angebot) innerhalt von 30 Minuten fehlerfrei mit MS Words schreiben.",
+            "2) Kenntnisse aus dem Bereich Marktforschung erwerben.",
+            "3) Erstellung eines Formulars nach DIN 5008",
+            "4) Der Auszubildende soll Kenntnisse der Textverarbeitung erlernen. 5) Der Auszubildende soll erkennen, welche Eigenschaften bestimmte Stoffe haben.",
+            "a) Richtlernziel",
+            "b) Groblernziel",
+            "c) Feinlernziel"
+        ],
+        "answer": "1c,2a,3b,4a,5b"
+    },
+    {
+        "type": 1,
+        "question": "Welche der genannten Beispiele sind darbietende Ausbildungsmethoden?(2 richtige Antworten)",
+        "answers": [
+            "Brainstorming",
+            "Vortrag",
+            "Vorführung eines Videos",
+            "Vier-Stufen Methode"
+        ],
+        "answer": "b,c"
+    },
+    {
+        "type": 0,
+        "question": "Was ist unter Mind-Map-Methode zu verstehen? (1 richtige Antwort)",
+        "answers": [
+            "Eine spezielle Technik zum Erschließen und visuellen Darstellen eines Themengebietes",
+            "Eine darbietende Ausbildungsmethode",
+            "Ein anderer Ausdruck für „Brainstorming“",
+            "Ein Rollenspiel"
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 2,
+        "question": "Ordnen Sie folgende Ausbildungsmethoden entsprechend zu.",
+        "answers": [
+            "1) Rollenspiel",
+            "2) Vier-Stufen-Methode",
+            "3) Präsentation",
+            "4) Moderierte Gruppendiskussion",
+            "5) Leittext-Methode",
+            "6) Lehrgespräch",
+            "a) Darbietende Ausbildungsmethode",
+            "b) Besprechende Ausbildungsmethode",
+            "c) Erarbeitende Ausbildungsmethode"
+        ],
+        "answer": "1b,2c,3a,4b,5c,6b"
+    },
+    {
+        "type": 1,
+        "question": "Welche Aussagen zu einer moderierten Besprechung sind richtig?(2 richtige Antworten)",
+        "answers": [
+            "Die Leitung der Besprechung übernimmt der verantwortliche Ausbilder.",
+            "Die Verantwortung für das Gespräch geht weitgehend auf die Auszubildenden über.",
+            "Die Ergebnisse der Besprechung sollten visualisiert werden, z. B. auf dem Flip-Chart.",
+            "Der Ausbilder schreibt den Ablauf der Besprechung in engem Rahmen vor."
+        ],
+        "answer": "b,c"
+    },
+    {
+        "type": 1,
+        "question": "Welche Ziele können mit einem Rollenspiel gut erreicht werden?(2 richtige Antworten)",
+        "answers": [
+            "Entwicklung der Kommunikationsfähigkeit.",
+            "Vermittlung der notwendigen Kenntnisse zur schriftlichen Abschlussprüfung.",
+            "Vermittlung von handwerklichen Fähigkeiten.",
+            "Aufbau und Training von Verhaltensweisen."
+        ],
+        "answer": "a,d"
+    },
+    {
+        "type": 1,
+        "question": "Für welche Ausbildungsinhalte wäre ein Rollenspiel geeignet?(2 richtige Antworten)",
+        "answers": [
+            "Aufbau einer Fertigungsstraße",
+            "Führen eines Verkaufsgespräches",
+            "Funktionsweise des Dieselmotors",
+            "Vorbereitung auf die mündliche Prüfung"
+        ],
+        "answer": "b,d"
+    },
+    {
+        "type": 1,
+        "question": "Wie können Sie einen Kurzvortrag ansprechend gestalten? (3 richtige Antworten)",
+        "answers": [
+            "Gestalten Sie die Einleitung interessant, z. B. mit besonderen Ereignissen zum Thema.",
+            "Benutzen Sie viele Fachwörter / Fremdwörter.",
+            "Rücken Sie zum Schluss nochmal die wichtigsten Punkte des Vortrags in den Vordergrund.",
+            "Seien Sie auf Fragen vorbereitet."
+        ],
+        "answer": "a,c,d"
+    },
+    {
+        "type": 1,
+        "question": "Welche Themen eignen sich gut für einen Kurzvortrag? (2 richtige Antworten)",
+        "answers": [
+            "Einkommenssteuererklärung ausfüllen können.",
+            "Aufgaben der Personalabteilung kennenlernen.",
+            "Umgang mit dem neuen Kalkulationsprogramm erlernen.",
+            "Bedeutung des sparsamen Umgangs mit Energie erkennen."
+        ],
+        "answer": "b,d"
+    },
+    {
+        "type": 0,
+        "question": "Welches ist ein Vorteil des Lehrgespräches? (1 richtige Antwort)",
+        "answers": [
+            "Die Auszubildenden nehmen aktiv teil.",
+            "Die Gesprächsführung wird von einem Auszubildenden übernommen.",
+            "Die Gesprächsführung wird vom Ausbilder und Auszubildenden gemeinsam ausgeführt.",
+            "Vielredner können sich hervorheben."
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 2,
+        "question": "Ordnen Sie die geeignete Ausbildungsmethode entsprechend zu.",
+        "answers": [
+            "1) Karrieremöglichkeiten / Aufstiegsmöglichkeiten im Betrieb aufzeigen.",
+            "2) Kommunikation bei einem Beratungsgespräch verbessern.",
+            "3) Arbeitssicherheit im Betrieb",
+            "4) Die Auszubildenden sollen die Ausbildungsberufe des Betriebes bei der nächsten Herbstausstellung präsentieren.",
+            "a) Lehrgespräch",
+            "b) Rollenspiel",
+            "c) Kurzvortrag",
+            "d) moderierte Besprechung"
+        ],
+        "answer": "1c,2b,3a,4d"
+    },
+    {
+        "type": 1,
+        "question": "Welche Aussagen zur Leittextmethode sind richtig? (2 richtige Antworten)",
+        "answers": [
+            "Der Ausbilder entwickelt den Leittext.",
+            "Die Auszubildenden entwickeln den Leittext.",
+            "Durch die Leittext-Methode wird das „Selber-Lernen“ der Auszubildenden angeleitet.",
+            "Die Leittextmethode wurde aus dem Rollenspiel entwickelt."
+        ],
+        "answer": "a,c"
+    },
+    {
+        "type": 2,
+        "question": "Ordnen Sie Arbeitsmittel und Medien entsprechend zu.",
+        "answers": [
+            "1) PC-Übungsprogramm",
+            "2) Flip-Chart",
+            "3) Hobelmaschine",
+            "4) Berichtsheft",
+            "5) Overheadprojektor",
+            "6) Werkzeugkoffer",
+            "a) Arbeitsmittel",
+            "b) Medien"
+        ],
+        "answer": "1b,2b,3a,4a,5b,6a"
+    },
+    {
+        "type": 1,
+        "question": "Welche Ausbildungsmittel sind vom Betrieb kostenlos bereit zu stellen? (2 richtige Antworten)",
+        "answers": [
+            "Fachbücher für die Berufsschule",
+            "Fachbücher, die betrieblich genutzt werden.",
+            "Fachbücher, die nicht betrieblich genutzt werden.",
+            "Berichtshefte (Ausbildungsnachweise)"
+        ],
+        "answer": "b,d"
+    },
+    {
+        "type": 1,
+        "question": "Welche Aussagen zur Gruppenarbeit sind richtig? (2 richtige Antworten)",
+        "answers": [
+            "Gruppenarbeit wirkt für die Beteiligten häufig demotivierend.",
+            "Es werden soziale Verhaltensweisen gefördert.",
+            "Während der Gruppenarbeit steht der Ausbilder als Berater zur Verfügung.",
+            "Während der Gruppenarbeit sollte der Ausbilder möglichst häufig Korrekturen vornehmen, um das gewünschte Ergebnis schnell zu erreichen."
+        ],
+        "answer": "b,c"
+    },
+    {
+        "type": 0,
+        "question": "In einer Gruppe redet Peter dazwischen und fällt durch albernes Verhalten auf. Was will er wahrscheinlich damit bezwecken? (1 richtige Antwort)",
+        "answers": [
+            "Er will Aufmerksamkeit erregen.",
+            "Er will sich als Gruppenführer sehen.",
+            "Er will so auf seine Kompetenz hinweisen.",
+            "Er will die Arbeit der Gruppe sabotieren."
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Wie sollte Kritik an jugendlichen Auszubildenden erfolgen? (1 richtige Antwort)",
+        "answers": [
+            "Die Kritik sollte sofort und unüberhörbar erfolgen.",
+            "Es sollten auf alle Fälle die Eltern des Auszubildenden herangezogen werden.",
+            "Die Leistung sollte mit der Leistung anderer Jugendlicher verglichen werden.",
+            "Die Ursachen der Fehler sollten gesucht werden."
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 0,
+        "question": "Jochen gehört zu den leistungsschwächeren Auszubildenden. Er stört den Unterricht. Welche spontane Reaktion wäre angemessen? (1 richtige Antwort)",
+        "answers": [
+            "„Wenn Du nicht aufhörst, setzt es gleich was.“",
+            "„Über Dein Verhalten werden wir nachher beide sprechen“. Der Unterricht wird weitergeführt.",
+            "„Über Dein Verhalten werden wir jetzt beide sprechen“. Der Unterricht wird unterbrochen.",
+            "„Ich sehe jetzt schon, mit Deiner Prüfung wird es nichts!“"
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "Ein neues Thema soll in Gruppenarbeit erarbeitet werden. Sie fordern die Auszubildenden auf, sich selber in Gruppen einzuteilen. Wie wird diese Gruppe bezeichnet? (1 richtige Antwort)",
+        "answers": [
+            "Eingeteilte Gruppe",
+            "Ausbildergruppe",
+            "Informelle Gruppe",
+            "Formelle Gruppe"
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 1,
+        "question": "Welche Aussagen zu Arbeitsgruppen sind richtig? (2 richtige Antworten)",
+        "answers": [
+            "Die Gruppenarbeit fördert die Ausbildung von Teamfähigkeit (Schlüsselqualifikation).",
+            "Der Auszubildende mit dem besten Fachwissen sollte Gruppensprecher sein.",
+            "Durch Ausübung von Druck auf die Gruppe lässt die Leistung in der Regel nach.",
+            "Durch Ausübung von Druck auf die Gruppe lässt sich die Leistung steigern."
+        ],
+        "answer": "a,c"
+    },
+    {
+        "type": 1,
+        "question": "Sie wollen Ihre Moderation mit Medien unterstützen. Welche Medien wären gut geeignet? (2 richtige Antworten)",
+        "answers": [
+            "Beamer",
+            "Flip-Chart",
+            "Videoanlage",
+            "Whiteboard "
+        ],
+        "answer": "b,d"
+    },
+    {
+        "type": 1,
+        "question": "Sie möchten einen Beamer einsetzen. Was haben folgende Angaben zu bedeuten",
+        "answers": [],
+        "answer": "b,c"
+    },
+    {
+        "type": 1,
+        "question": "Welches sind Anlässe, die zu einer Verlängerung der Ausbildungszeit führen können? (2 richtige Antworten)",
+        "answers": [
+            "Verlängerung nach einer nicht bestandenen Abschlussprüfung",
+            "Verlängerung nach einer nicht bestandenen Zwischenprüfung",
+            "Verlängerung aufgrund längerer vom Auszubildenden nicht zu vertretenden Ausfallzeiten (z. B. Krankheit)",
+            "Verlängerung um eine bessere Prüfungsnote durch eine bessere Vorbereitung zu erreichen. "
+        ],
+        "answer": "a,c"
+    },
+    {
+        "type": 0,
+        "question": "Wer muss den Antrag auf Verlängerung des Ausbildungsverhältnisses stellen?(1 richtige Antwort)",
+        "answers": [
+            "Der Ausbildende",
+            "Die Berufsschule",
+            "Der beauftragte Ausbilder zusammen mit dem Ausbildungsbetrieb",
+            "Der Auszubildende"
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 1,
+        "question": "Wann sollten Lernerfolgskontrollen vorgenommen werden? (2 richtige Antworten)",
+        "answers": [
+            "Jährlich",
+            "Nach jeder größeren Ausbildungseinheit",
+            "Nur vor den Prüfungen (Zwischenprüfung, Abschlussprüfung)",
+            "Nach kleineren Ausbildungseinheiten (Zwischenkontrolle)"
+        ],
+        "answer": "b,d"
+    },
+    {
+        "type": 1,
+        "question": "Welche Kriterien sind bei der Beurteilung von Auszubildenden anzusetzen? (3 richtige Antworten)",
+        "answers": [
+            "Lernverhalten",
+            "Lernfähigkeit",
+            "Führungsstil",
+            "Selbständigkeit"
+        ],
+        "answer": "a,b,d"
+    },
+    {
+        "type": 2,
+        "question": "Ordnen Sie die Eigenschaften der gebundenen Beurteilung und der freien Beurteilung entsprechend zu?",
+        "answers": [
+            "1) Zeitsparend",
+            "2) Weniger subjektiv",
+            "3) Erhöhung der Vergleichbarkeit",
+            "4) Größerer Beurteilungsspielraum",
+            "5) Erfassung wesentlicher Merkmale",
+            "a) gebundene Beurteilung",
+            "b) freie Beurteilung"
+        ],
+        "answer": "1a,2b,3a,4b,5a"
+    },
+    {
+        "type": 0,
+        "question": "Was bedeutet die „Tendenz zur Mitte“ bei einer Beurteilung? (1 richtige Antwort)",
+        "answers": [
+            "Gute und schlechte Bewertungen werden vermieden.",
+            "Es wird ein sehr hoher Maßstab bei der Bewertung angelegt.",
+            "Ein Auszubildender soll durch die Beurteilung „gefügig“ gemacht werden.",
+            "Der Beurteiler orientiert sich sehr stark an vorherigen Beurteilungen."
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 1,
+        "question": "Welche Aussagen zum Beurteilungsbogen sind richtig? (3 richtige Antworten)",
+        "answers": [
+            "Mit der Unterschrift bestätigt der Auszubildende seine Zustimmung.",
+            "Mit der Unterschrift bestätigt der Auszubildende die Kenntnisnahme.",
+            "Der Auszubildende hat ein Recht auf Erörterung der Beurteilung.",
+            "Der Auszubildende kann ein Mitglied des Betriebsrates zur Erörterung hinzuziehen."
+        ],
+        "answer": "b,c,d"
+    },
+    {
+        "type": 0,
+        "question": "Ihr Auszubildender zum Bürokaufmann Karl Karel muss zur Abschlussprüfung angemeldet werden. Wie läuft dieser Vorgang meist ab? (1 richtige Antwort)",
+        "answers": [
+            "Der Fachkundelehrer meldet Karl Karel im Auftrag der Berufsschule bei der zuständigen Stelle an.",
+            "Karl Karel muss sich selber bei der zuständigen Stelle zur Abschlussprüfung anmelden.",
+            "Der Ausbildungsbetrieb meldet zur Abschlussprüfung an. Die entsprechenden Formulare werden von der zuständigen Stelle zugeschickt.",
+            "Die IHK als zuständige Stelle nimmt die Anmeldung automatisch vor. Die entsprechenden Daten werden aus dem Berufsausbildungsvertrag übernommen."
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Die Teilnahme an der Abschlussprüfung ist an Bedingungen geknüpft. Welche Bedingung ist keine Voraussetzung? (1 richtige Antwort)",
+        "answers": [
+            "Eine bestandene Zwischenprüfung ist Voraussetzung für die Abschlussprüfung.",
+            "Eine Teilnahme an der Zwischenprüfung ist Voraussetzung für die Abschlussprüfung.",
+            "Voraussetzung ist die Eintragung des Berufsausbildungsverhältnisses in das Verzeichnis der zuständigen Stelle.",
+            "Voraussetzung ist die Ableistung der erforderlichen Ausbildungsdauer. "
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Die zuständige Stelle hält die Voraussetzung zur Teilnahme an der Abschlussprüfung für Karl Karel als nicht erfüllt. Wer entscheidet, ob Karl für die Prüfung zugelassen wird? (1 richtige Antwort)",
+        "answers": [
+            "Die zuständige Stelle, in diesem Fall der Ausbildungsberater der IHK",
+            "Der Prüfungsausschuss",
+            "Das Direktorium der Berufsschule",
+            "Der Ausbildungsbetrieb, da er die Leistungsfähigkeit von Karl Karel am besten beurteilen kann"
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "Sonny Mikojetz ist eine sehr gute Auszubildende als Kauffrau im Einzelhandel. Ihr Berufsschulzeugnis nach Abschluss des zweiten Lehrjahres hat einen Durchschnitt von 1,7 in den Hauptfächern. Kurz nach Erhalt des Zeugnisses teilt Sonny dem Betrieb mit, dass sie ihre Ausbildung verkürzen möchte. Welche Aussage ist richtig? (1 richtige Antwort)",
+        "answers": [
+            "Nein, eine Verkürzung ist nicht möglich. Dieses hätte schon bei Beginn des Ausbildungsverhältnisses beantragt werden müssen.",
+            "Nein, eine Verkürzung ist nicht möglich. Die Leistungen in der Berufsschule reichen dafür nicht aus.",
+            "Nein, der noch nötige Ausbildungsstoff ist ihr in der kurzen Zeit nicht zu vermitteln.",
+            "Ja, ihre Leistungen im Betrieb und in der Berufsschule sprechen für eine Verkürzung."
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 0,
+        "question": "Die Auszubildende Silke Kiewel besteht ihre Abschlussprüfung mit dem letzten Prüfungsteil am 25.06. Die Ergebnisse werden ihr noch am gleichen Tag mitgeteilt. Ihr Ausbildungsvertrag läuft noch bis zum 31.07. Wann endet das Ausbildungsverhältnis? (1 richtige Antwort)",
+        "answers": [
+            "Am 25.06.",
+            "Am 31.07.",
+            "Am Tage der Freisprechung",
+            "Am Ende des Monats, in dem die letzte Prüfung stattfand. In diesem Fall am 30.06."
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 1,
+        "question": "In einigen Berufen gibt es eine „gestreckte Prüfung“. Welche Aussagen dazu sind richtig? (2 richtige Antworten)",
+        "answers": [
+            "Die schriftliche Abschlussprüfung wird über den Zeitraum von 2 Wochen gestreckt.",
+            "Die Abschlussprüfung wird in 2 Teile gegliedert. Teil 1 ersetzt die Zwischenprüfung.",
+            "Die Ergebnisse des ersten Teils der gestreckten Prüfung haben keinen Einfluss auf die Endnoten.",
+            "Die Prüfungsrisiken werden verteilt. Somit wird das Risiko einer „schlechten Tagesform“ geringer."
+        ],
+        "answer": "b,d"
+    },
+    {
+        "type": 1,
+        "question": "Wie ist nach Maßgabe des BBiG der Prüfungsausschuss zusammengesetzt? (2 richtige Antworten)",
+        "answers": [
+            "Die berufsbildenden Schulen sind mit mindestens einer Lehrkraft vertreten.",
+            "Er besteht aus mindestens 4 Personen.",
+            "Die Arbeitgeber und Arbeitnehmer stellen die gleiche Anzahl an Prüfern.",
+            "Der Vorsitzende des Prüfungsausschusses wird von der zuständigen Stelle (z. B. IHK) bestimmt."
+        ],
+        "answer": "a,c"
+    },
+    {
+        "type": 2,
+        "question": "Ordnen Sie folgende Symptome von Prüfungsangst entsprechend zu.",
+        "answers": [
+            "1) Konzentrationsschwäche",
+            "2) Bauchweh",
+            "3) Denkblockade",
+            "4) Hoffnungslosigkeit",
+            "5) Schwindel",
+            "a) körperlicher Bereich",
+            "b) psychischer Bereich"
+        ],
+        "answer": "1b,2a,3b,4b,5a"
+    },
+    {
+        "type": 1,
+        "question": "Welche Maßnahmen können zum Abbau von Prüfungsängsten beitragen? (2 richtige Antworten)",
+        "answers": [
+            "Weisen Sie den Auszubildenden möglichst häufig auf die nahende Prüfung hin.",
+            "Bauen Sie Vertrauen in die eigene Leistungsfähigkeit des Auszubildenden auf.",
+            "Planen Sie mit dem Auszubildenden die Prüfungsvorbereitung zusammen.",
+            "Vergeben Sie bei Erfolgskontrollen zum Lernanreiz schlechte Noten."
+        ],
+        "answer": "b,c"
+    },
+    {
+        "type": 1,
+        "question": "Welche Angaben zum Bewertungsschlüssel nach § 24 der Musterprüfungsordnung sind richtig? (2 richtige Antworten)",
+        "answers": [
+            "unter 92 - 81 Punkte = Note 2",
+            "unter 79 - 68 Punkte = Note 3",
+            "unter 62 - 52 Punkte = Note 4",
+            "unter 50 - 30 Punkte = Note 5"
+        ],
+        "answer": "a,d"
+    },
+    {
+        "type": 0,
+        "question": "Der Auszubildende Peter Portimann fällt durch die Prüfung. Kann diese wiederholt werden? Wenn ja, wie oft? (1 richtige Antwort)",
+        "answers": [
+            "Nein, eine Wiederholung ist nicht möglich.",
+            "Ja, die Prüfung kann 1-mal wiederholt werden.",
+            "Ja, die Prüfung kann 2-mal wiederholt werden.",
+            "Ja, die Prüfung kann 3-mal wiederholt werden. "
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Peter Portimann ist am 12.06. durch die Prüfung gefallen. Am 31.07. endet sein Ausbildungsvertrag. Er möchte seine Ausbildung bis zur nächsten Prüfung verlängern. Müssen Sie als Ausbildungsbetrieb das ermöglichen? (1 richtige Antwort)",
+        "answers": [
+            "Nein, Sie müssen der Verlängerung nicht zustimmen.",
+            "Ja, wenn Peter Portimann das verlangt.",
+            "Die Entscheidung erfolgt durch den Ausbildungsberater der zuständigen Stelle.",
+            "Nein, da Sie damit rechnen, dass er die Wiederholungsprüfung auch nicht schaffen wird."
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "Peter Portimann ist am 12.06. durch die Prüfung gefallen. Am 31.07. endet sein Ausbildungsvertrag. Er möchte seine Ausbildung in dem Betrieb nicht weiterführen. Wann endet das Ausbildungsverhältnis? (1 richtige Antwort)",
+        "answers": [
+            "Am 12.06.",
+            "Am 30.06.",
+            "Das Ausbildungsverhältnis wird auf jeden Fall bis zum nächst möglichen Prüfungstermin fortgesetzt.",
+            "Am 31.07."
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 1,
+        "question": "Die Geschäftsführung hat entschieden, dem 17jährigen Auszubildenden Heiko vor Ablauf der Probezeit zu kündigen. Welche Aussagen dazu sind richtig? (2 richtige Antworten)",
+        "answers": [
+            "Die Kündigung kann nur mit Angabe eines wichtigen Grundes erfolgen.",
+            "Ein Kündigungsgrund muss nicht angegeben werden.",
+            "Die Kündigung muss schriftlich und gegenüber dem Erziehungsberechtigen erfolgen.",
+            "Die Kündigungsfrist von 4 Wochen muss eingehalten werden."
+        ],
+        "answer": "b,c"
+    },
+    {
+        "type": 0,
+        "question": "Die Geschäftsführung teilt Ihnen mit, dass aus wirtschaftlichen Gründen leider keine Auszubildenden in ein festes Arbeitsverhältnis übernommen werden können. Welche Aussage dazu ist richtig? (1 richtige Antwort)",
+        "answers": [
+            "Der Ausbildungsvertrag endet mit Fristablauf oder bestandener Prüfung. Eine Kündigung ist nicht notwendig.",
+            "Sie müssen den Auszubildenden mit entsprechenden Fristen kündigen.",
+            "Sie müssen die Auszubildenden weiter beschäftigen, bis diese einen neuen Arbeitsplatz gefunden haben.",
+            "Sie sind verpflichtet, Auszubildende mindestens 6 Monate zu übernehmen."
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 1,
+        "question": "Marcel Meier ist ein sehr guter Auszubildender. In der Berufsschule hat er einen Notendurchschnitt von 2,3. Was ist beim Antrag auf Verkürzung zu beachten? (2 richtige Antworten)",
+        "answers": [
+            "Die Prüfung soll nicht mehr als 6 Monate vor dem ursprünglichen Termin stattfinden.",
+            "Die Berufsschule entscheidet in der Lehrerkonferenz über den Antrag.",
+            "Der Antrag wird vom Auszubildenden bei der zuständigen Stelle gestellt.",
+            "Der Notendurchschnitt muss in den prüfungsrelevanten Fächern besser als 2,01 sein."
+        ],
+        "answer": "a,c"
+    },
+    {
+        "type": 2,
+        "question": "Ordnen Sie folgende Zeugniscodes zu:",
+        "answers": [
+            "1) …stets zu unserer vollen Zufriedenheit.",
+            "2) …hat sich bemüht, den Anforderungen gerecht zu werden.",
+            "3) … stets zu unserer vollsten Zufriedenheit.",
+            "4) …zu unserer vollen Zufriedenheit.",
+            "5) ...zu unserer Zufriedenheit.",
+            "a) Sehr gut – Note 1",
+            "b) Gut – Note 2",
+            "c) Befriedigend – Note 3",
+            "d) Ausreichend – Note 4",
+            "e) Mangelhaft – Note 5"
+        ],
+        "answer": "1b,2e,3a,4c,5d"
+    },
+    {
+        "type": 0,
+        "question": "Muss der Ausbildungsbetrieb dem Auszubildenden ein Zeugnis ausstellen? (1 richtige Antwort)",
+        "answers": [
+            "Nein, diesen weiteren Aufwand kann man nicht verlangen.",
+            "Nein, das Zeugnis wird durch die Berufsschule ausgestellt.",
+            "Nein, aber auf freiwilliger Basis kann der Betrieb ein Ausbildungszeugnis ausstellen.",
+            "Ja, der Betrieb ist verpflichtet ein Zeugnis auszustellen."
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 0,
+        "question": "Was ist der Unterschied zwischen einem \"normalen Arbeitszeugnis\" und einem \"qualifizierten Arbeitszeugnis\"? (1 richtige Antwort)",
+        "answers": [
+            "Das qualifizierte Arbeitszeugnis enthält zusätzlich Angaben über Verhalten und Leistung des Auszubildenden.",
+            "Das qualifizierte Arbeitszeugnis wird zusätzlich vom zuständigen Ausbilder unterschrieben.",
+            "Das qualifizierte Arbeitszeugnis enthält eine genaue Beschreibung der Ausbildungsinhalte.",
+            "Das qualifizierte Arbeitszeugnis enthält Angaben über die körperliche Leistungsfähigkeit und die Krankheitstage."
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Wer unterschreibt das Ausbildungszeugnis? (1 richtige Antwort)",
+        "answers": [
+            "Der Auszubildende",
+            "Der Ausbildende und evtl. der verantwortliche Ausbilder",
+            "Der Ausbilder und ein Vertreter der Berufsschule",
+            "Der Ausbilder und der Auszubildende"
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "Gibt es innerhalb der EU ein einheitliches Ausbildungssystem in der beruflichen Erstausbildung? Welche Aussage ist richtig?",
+        "answers": [
+            "Die berufliche Ausbildung ist innerhalb der EU gleich.",
+            "Die berufliche Ausbildung ist innerhalb der EU unterschiedlich.",
+            "In den „alten“ EU-Ländern ist die berufliche Erstausbildung gleich.",
+            "Bis 2015 wird in der EU die berufliche Erstausbildung auf den deutschen Stand angepasst."
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "Sie sind als neuer Ausbilder eingesetzt und wissen, dass auch die Berufsschule einen Teil der Ausbildungsinhalte vermittelt. Welche Inhalte vermittelt die Berufsschule nicht?",
+        "answers": [
+            "Vermittlung von Wissen im Bereich Wirtschaft- und Sozialkunde",
+            "Ergänzung der Allgemeinbildung",
+            "Vermittlung des theoretischen Basiswissens",
+            "Vermittlung der beruflichen, praktischen Fertigkeiten"
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 0,
+        "question": "Der Betriebsinhaber Jo Jonson überlegt, ob er dieses Jahr Auszubildende einstellen möchte. Welche Eignung muss er als Betriebsinhaber haben?",
+        "answers": [
+            "Die fachliche Eignung",
+            "Die fachliche und persönliche Eignung",
+            "Die persönliche Eignung",
+            "Die Ausbildereignung, die durch eine IHK-Prüfung nachgewiesen wird."
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Der Betriebsinhaber Jo Jonson ist mit der Betriebsführung voll und ganz ausgelastet und möchte deshalb die Ausbildungstätigkeit an seinen erfahrenen Mitarbeiter Peter Petersen übertragen. Welche Eignung braucht Peter Petersen?",
+        "answers": [
+            "Die fachliche und persönliche Eignung",
+            "Nur die fachliche Eignung",
+            "Nur die persönliche Eignung",
+            "Als Erfüllungshilfe wird die Eignung vom Betriebsinhaber auf den Mitarbeiter übertragen."
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Die 14jährige Schülerin Jette Müller macht in Ihrem Einzelhandelsbetrieb ein Praktikum als Verkäuferin. Die Arbeit gefällt ihr sehr gut, so dass sie mit ihrer Ausbildung gleich nach dem Praktikum beginnen möchte. Welche Aussage ist richtig?",
+        "answers": [
+            "Jette Müller kann sofort mit der Ausbildung beginnen.",
+            "Zuerst muss Jette Müller die in Deutschland geltende Vollzeitschulpflicht von 9 Jahren erfüllen. Danach kann - mit Zustimmung der Eltern - ein Ausbildungsvertrag geschlossen werden.",
+            "Zuerst muss die in Deutschland geltende Vollzeitschulpflicht von 10 Jahren erfüllt werden. Danach kann Jette Müller, wenn sie 15 Jahre alt ist, selbständig einen Ausbildungsvertrag abschließen.",
+            "Jette Müller kann nach Rücksprache mit dem Schulleiter und bei guten schulischen Leistungen sofort mit der Ausbildung beginnen."
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "Die Auszubildende Petra Petrel wird eingestellt. Betriebsinhaber der Firma ist Jo Jonson, der seinem erfahrenen Mitarbeiter Peter Petersen die Ausbildung überträgt. Wer ist der Ausbildende und wer ist der Ausbilder?",
+        "answers": [
+            "Jo Jonson ist der Ausbildende. Peter Petersen ist der Ausbilder.",
+            "Peter Petersen ist der Ausbildende und Ausbilder gleichzeitig.",
+            "Jo Jonson ist der Ausbildende und Ausbilder gleichzeitig.",
+            "Jo Jonson ist der Ausbilder. Peter Petersen ist der Ausbildende."
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Welche Bedingung muss erfüllt sein, bevor Petra Petrel (aus Frage 6) als Auszubildende eingestellt werden kann?",
+        "answers": [
+            "Sie muss vorher ein Praktikum absolviert haben.",
+            "Sie muss gut durch die Probezeit gekommen sein.",
+            "Sie muss die Vollzeitschulpflicht erfüllt haben.",
+            "Sie muss die Deutsche Staatsbürgerschaft haben."
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Sie möchten sich über einzelne Bestandteile des Berufsausbildungsvertrages informieren. Wo schlagen Sie nach?",
+        "answers": [
+            "Im Bürgerlichen Gesetzbuch",
+            "Im Berufsbildungsgesetz",
+            "Im Betriebsverfassungsgesetz",
+            "Im Berufsausbildungsgesetz"
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "Ihre Auszubildende Sabine Schön ist vor kurzem volljährig geworden. Sie meint, jetzt nicht mehr zur Berufsschule gehen zu müssen. Wie ist die Lage?",
+        "answers": [
+            "Sabine ist berufsschulpflichtig.",
+            "Sabine ist nicht berufsschulpflichtig, da sie jetzt volljährig ist.",
+            "Sabine Schön kann sich mit Erlaubnis des Betriebes vom Besuch der Berufsschule freistellen lassen.",
+            "Wenn sie einen Schulabschluss (z. B. Mittlere Reife) besitzt, entfällt die Berufsschulpflicht."
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Der Betriebsrat hat bei Maßnahmen der betrieblichen Ausbildung und der Weiterbildung ein Mitspracherecht. Bei welchem Fall besteht kein Mitspracherecht?",
+        "answers": [
+            "Erstellen der Themen für eine betriebliche Weiterbildung",
+            "Einstellung der Auszubildenden",
+            "Festlegung der Pausenzeiten",
+            "Einrichtung eines Unterrichtsraumes"
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 0,
+        "question": "Welche Aussage zum Berufsbildungsgesetz (BBiG) ist richtig?",
+        "answers": [
+            "Im Berufsbildungsgesetz wird der Stoffplan der Berufsschule zeitlich gegliedert.",
+            "Im Berufsbildungsgesetz sind alle Lehrgänge zur Fort- und Weiterbildung geregelt.",
+            "Das Berufsbildungsgesetz regelt die Arbeit von Jugendlichen in der Ausbildung.",
+            "Im Berufsbildungsgesetz ist die berufliche Ausbildung der Wirtschaft geregelt."
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Peter Müller ist für die Ausbildung in seiner Firma zuständig und möchte die Selbständigkeit der Auszubildenden fördern. Welche Maßnahme wäre dazu geeignet?",
+        "answers": [
+            "Genaue Anweisungen erteilen.",
+            "Die Auszubildenden bei der Ausbildungsplanung einbinden.",
+            "Teamorientiertes Arbeiten unterbinden.",
+            "Genaue zeitliche Vorgaben machen."
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "Manfred Müller ist Auszubildender zum Restaurantfachmann und hat in einem Monat seine Zwischenprüfung. Ihm wurde gesagt, dass er die Zwischenprüfung bestehen muss, um an der Abschlussprüfung teilzunehmen. Ist das richtig?",
+        "answers": [
+            "Nein, für die Abschlussprüfung ist nur die Teilnahme an der Zwischenprüfung erforderlich, nicht das Bestehen.",
+            "Ja, das Bestehen der Zwischenprüfung ist Voraussetzung für die Zulassung zur Abschlussprüfung.",
+            "Ja, aber die Zwischenprüfung kann wiederholt werden.",
+            "Ja, aber nur wenn die praktische Zwischenprüfung mit ungenügend gewertet wird."
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Wer ist zuständig für die Überwachung von Unfallverhütungsvorschriften im Betrieb?",
+        "answers": [
+            "Die Handwerkskammer oder Handelskammer",
+            "Die Krankenversicherung",
+            "Die Berufsgenossenschaft",
+            "Die Private Unfallversicherung"
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Der Auszubildende Peter Maier kam letzte Woche 3-mal zu spät zur Arbeit. Wie sollten Sie als Ausbilder reagieren?",
+        "answers": [
+            "Mit einer Abmahnung",
+            "Kündigung bei Wiederholung",
+            "Die versäumte Zeit nacharbeiten lassen.",
+            "Das Gespräch suchen, um die Gründe der Verspätungen festzustellen."
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 0,
+        "question": "Eine Auszubildende möchte wissen, was der Begriff „Tarifautonomie“ bedeutet?",
+        "answers": [
+            "Streit zwischen Arbeitgeber und Gewerkschaften",
+            "Ein Tarifvertrag wird ohne Mitwirken des Staates abgeschlossen.",
+            "Ein Tarifvertrag wird mit Mitwirken des Staates abgeschlossen.",
+            "Ein Tarifvertrag ist allgemein gültig."
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "Sie führen bei Ihren Auszubildenden eine Lernerfolgskontrolle durch, nachdem eine Arbeitsaufgabe erfüllt und besprochen wurde. Wozu ist das nötig?",
+        "answers": [
+            "Die Azubis können erkennen, dass sie evtl. einen falschen Ausbildungsberuf gewählt haben.",
+            "Aufgrund der Kontrolle können Strafen wegen Nichterfüllung besser begründet werden.",
+            "Defizite beim Lernen werden aufgezeigt.",
+            "Es ist eine gute Absicherung für den Ausbilder, falls ein Auszubildender durch die Prüfung fällt."
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Jochen Müller ist Ausbilder und beauftragt, einen betrieblichen Ausbildungsplan inkl. zeitlicher Gliederung zu erstellen. Welcher Faktor ist zu berücksichtigen?",
+        "answers": [
+            "Blockunterricht der Berufsschule",
+            "2-tägiger Ausfall des Auszubildenden wegen Krankheit",
+            "4-stündige Schulung durch den Inhaber",
+            "Urlaub des Ausbildenden"
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Welche Formulierung / Vereinbarung ist in einem Berufsausbildungsvertrag nicht zulässig?",
+        "answers": [
+            "Die Dauer der Probezeit beträgt 3 Monate.",
+            "Der Urlaubsanspruch beträgt 27 Werktage.",
+            "Angaben zu Beginn und Dauer der Ausbildung.",
+            "Der Auszubildende verpflichtet sich, nach der Ausbildung 2 Jahre im Betrieb als Angestellter zu den tariflich festgesetzten Bedingungen zu verbleiben."
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 0,
+        "question": "Die Friseur Auszubildende Cindy ist bei den Kunden sehr beliebt und geschätzt. Jedoch hat sie bei der Zwischenprüfung in der Kenntnisprüfung schlecht abgeschnitten. Was können Sie als Ausbilder tun?",
+        "answers": [
+            "Sie erklären Cindy, dass die „Theorie“ bei dem Beruf der Friseurin nicht so wichtig ist.",
+            "Sie führen ein Gespräch und weisen auf ihre guten praktischen Fähigkeiten hin. Sie erklären aber, dass gute theoretische Kenntnisse auch zum Beruf gehören.",
+            "Sie unternehmen nichts und warten ab.",
+            "Sie drohen mit einer Abmahnung, falls sich die Noten von Cindy in naher Zukunft nicht ändern."
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "Ein Auszubildender hat in den letzten 2 Monaten stark in seiner Leistungsfähigkeit nachgelassen. Jetzt bekommen Sie mit, dass der junge Mann ein Drogenproblem hat. Sie sind auf dem Gebiet völlig unerfahren. Was können Sie tun?",
+        "answers": [
+            "Sie versuchen sich das entsprechende Wissen durch Bücher anzueignen.",
+            "Sie wenden sich an die Berufsschule, da es dort Pädagogen gibt.",
+            "Sie nehmen Kontakt mit einer Drogenberatungsstelle / Suchtberatungsstelle auf.",
+            "Sie melden diesen Vorgang der Handelskammer / Handwerkskammer."
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Ein Auszubildender fragt, woher Sie die Daten für den Urlaub und die wöchentliche Arbeitszeit entnommen haben. Welches ist die Rechtsgrundlage?",
+        "answers": [
+            "Der Tarifvertrag",
+            "Das Handelsgesetzbuch (HGB)",
+            "Das Betriebsverfassungsgesetz",
+            "Die Anweisung des Betriebsinhabers als Recht des Arbeitgebers"
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Ein Auszubildender als Einzelhandelskaufmann der Firma Heese soll einen Kunden freundlich bedienen. Wie nennt man dieses Lernziel?",
+        "answers": [
+            "Kognitiv-affektives Lernziel",
+            "Psychomotorisches Lernziel",
+            "Kognitives Lernziel",
+            "Affektives Lernziel"
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 0,
+        "question": "Der Auszubildende aus Frage 8 soll technische Daten zur Kaffeemaschine nennen können, die ein Kunde nachfragt. Wie wird dieser Lernbereich genannt?",
+        "answers": [
+            "Schulischer Lernbereich",
+            "Psychomotorischer Lernbereich",
+            "Kognitiver Lernbereich",
+            "Affektiver Lernbereich"
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Der Auszubildende aus Frage 9 soll die fachgerechte Reinigung der Kaffeemaschine demonstrieren und erläutern. Dazu ist die Brühgruppe zu zerlegen. Wie wird dieser Lernbereich genannt?",
+        "answers": [
+            "Affektiv-kognitiver Lernbereich",
+            "Psychomotorischer Lernbereich",
+            "Kognitiver Lernbereich",
+            "Affektiver Lernbereich"
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "Der Auszubildenden Paula wird die Zulassung zur Abschlussprüfung verweigert. Welchen Grund kann das haben?",
+        "answers": [
+            "Paula ist schon dreimal durch die Prüfung gefallen.",
+            "Paulas Ausbildungsbetrieb ist in Konkurs gegangen.",
+            "Paula ist durch die Zwischenprüfung gefallen.",
+            "Paulas Leistungen im Betrieb sind in der letzten Zeit ziemlich schlecht. "
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Welches ist die \"Zuständige Stelle\" für die Berufsausbildung als Einzelhandelskauffrau?",
+        "answers": [
+            "Berufsschule",
+            "Arbeitgeberverband des Einzelhandels",
+            "Gewerkschaft des Einzelhandels",
+            "Industrie- und Handelskammer"
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 0,
+        "question": "Eine Jugendliche muss heute bis 20.00 Uhr arbeiten. Ab wann darf sie morgen wieder beschäftigt werden?",
+        "answers": [
+            "Ab 6 Uhr",
+            "Ab 7 Uhr",
+            "Ab 8 Uhr",
+            "Ab 10 Uhr"
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Zwischen welchen Verbänden finden Tarifverhandlungen statt?",
+        "answers": [
+            "Zwischen dem Arbeitgeberverband und der Gewerkschaft",
+            "Zwischen dem Arbeitgeberverband und der Berufsgenossenschaft",
+            "Zwischen dem Arbeitsamt und den Gewerkschaften",
+            "Zwischen der Industrie- und Handelskammer und den Gewerkschaften"
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Ein Auszubildender will morgen später zur Arbeit erscheinen. Er möchte seinen türkischen Vater auf das Arbeitsamt begleiten und evtl. als Übersetzer fungieren. Wie reagieren Sie?",
+        "answers": [
+            "Sie organisieren einen richtigen Übersetzer, damit es auf dem Arbeitsamt nicht zu Missverständnissen kommt.",
+            "Sie geben den Hinweis, dass das Arbeitsamt auch zu Zeiten außerhalb der Arbeitszeit des Auszubildenden geöffnet ist.",
+            "Sie erlauben den verspäteten Arbeitsantritt ohne weitere Erklärung.",
+            "Sie warten ab und erteilen eine Abmahnung, wenn der Auszubildenden verspätet zur Arbeit erscheint."
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "In welchem Abstand wird der Betriebsrat gewählt? (1 richtige Antwort)",
+        "answers": [
+            "Alle 4 Jahre",
+            "Alle 3 Jahre",
+            "Alle 2 Jahre",
+            "Der Abstand wird durch die Geschäftsleitung festgelegt."
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Wer nimmt an der Betriebsversammlung teil? (1 richtige Antwort)",
+        "answers": [
+            "Nur die Gewerkschaftsmitglieder des Betriebes",
+            "Nur die Gewerkschaftsmitglieder und die gewählten Betriebsräte",
+            "Alle Mitarbeiter des Betriebes",
+            "Die Geschäftsleitung und der Betriebsrat"
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Einem Arbeitnehmer wird gekündigt ohne den Betriebsrat zu hören. Welche Aussage ist richtig? (1 richtige Antwort)",
+        "answers": [
+            "Die Kündigung ist wirksam. Die Geschäftsführung braucht den Betriebsrat nicht hinzu zuziehen.",
+            "Die Kündigung ist nicht wirksam. Kündigungen nimmt nur der Betriebsrat vor.",
+            "Die Kündigung ist nicht wirksam, da laut Betriebsverfassungsgesetz der Betriebsrat zu hören ist.",
+            "Die Kündigung ist wirksam, wenn der Betriebsrat zuvor informiert wurde."
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Wer vertritt bei Tarifverhandlungen die Interessen der Arbeitnehmer? (1 richtige Antwort)",
+        "answers": [
+            "Der Betriebsrat der Unternehmen",
+            "Die zuständige Gewerkschaft",
+            "Die Sozialversicherungsverbände",
+            "Die Berufsgenossenschaft "
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "Der Betriebsrat hat Mitbestimmungsrechte. In welchem Fall trifft dies zu? (1 richtige Antwort)",
+        "answers": [
+            "Die Bilanz des Unternehmens soll unterschrieben werden.",
+            "Der Gewinn der Gesellschaft soll verteilt werden.",
+            "Ein neuer leitender Mitarbeiter soll eingestellt werden.",
+            "Es sollen betriebliche Weiterbildungsmaßnahmen durchgeführt werden."
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 0,
+        "question": "Die Pausenzeiten sollen geändert werden. Welches Recht hat der Betriebsrat? (1 richtige Antwort)",
+        "answers": [
+            "Der Betriebsrat hat ein Mitbestimmungsrecht.",
+            "Der Betriebsrat hat kein Mitbestimmungsrecht.",
+            "Der Betriebsrat braucht nur informiert zu werden (Informationsrecht).",
+            "Der Betriebsrat bestimmt allein über die Pausenregelung nach dem Alleinvertretungsrecht."
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Wer wählt die Jugend- und Auszubildendenvertretung? (1 richtige Antwort)",
+        "answers": [
+            "Nur Auszubildende und Arbeitnehmer unter 18 Jahren",
+            "Nur Gewerkschaftsmitglieder unter 21 Jahren",
+            "Alle Mitarbeiter des Betriebes unter 25 Jahren",
+            "Alle Auszubildende unter 25 Jahren und die Arbeitnehmer unter 18 Jahren"
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 0,
+        "question": "In welchem Fall wird die Maßnahme erst durch Zustimmung des Betriebsrates wirksam? (1 richtige Antwort)",
+        "answers": [
+            "Es sollen neue langfristige Kredite aufgenommen werden.",
+            "Die Betriebsferien / Werksferien werden festgelegt.",
+            "Es sollen neue Firmenwagen für die Verkaufsabteilung angeschafft werden.",
+            "Die Bonuszahlungen für die Vorstände / Geschäftsführung werden neu festgelegt."
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "Wie lange dürfen Arbeitnehmer unter 18 Jahren ohne Pause höchstens arbeiten? (1 richtige Antwort)",
+        "answers": [
+            "4,5 Stunden",
+            "3 Stunden",
+            "4 Stunden",
+            "6 Stunden"
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 0,
+        "question": "Sie möchten in Ihre Personalakte einsehen. Auf welches Gesetz können Sie sich beziehen? (1 richtige Antwort)",
+        "answers": [
+            "Das Bürgerliche Gesetzbuch (BGB)",
+            "Das Handelsgesetzbuch (HGB)",
+            "Die Betriebsvereinbarung",
+            "Das Betriebsverfassungsgesetz"
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 2,
+        "question": "Ordnen Sie die Rechtsgrundlagen entsprechend zu.",
+        "answers": [
+            "1) Eine Kündigung ohne die Anhörung des Betriebsrates ist unwirksam.",
+            "2) Die regelmäßige wöchentliche Arbeitszeit im Elektrohandwerk in Niedersachsen beträgt 38,5 Stunden.",
+            "3) Eine Kündigungsschutzklage muss innerhalb von 3 Wochen eingereicht werden.",
+            "4) Ein Entgeltausfall darf durch den Besuch der Berufsschule nicht eintreten.",
+            "a) Jugendarbeitsschutzgesetz",
+            "b) Tarifvertrag",
+            "c) Kündigungsschutzgesetz",
+            "d) Betriebsverfassungsgesetz",
+            "e) Jugendschutzgesetz",
+            "f) Mutterschutzgesetz"
+        ],
+        "answer": "1d,2b,3c,4a"
+    },
+    {
+        "type": 0,
+        "question": "Wer trägt die Kosten für die Wahl des Betriebsrates? (1 richtige Antwort)",
+        "answers": [
+            "Der Staat",
+            "Der Arbeitgeber",
+            "Die Gewerkschaft",
+            "Der Betriebsrat"
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 1,
+        "question": "Sie sind Ausbilder in einer Bäckerei mit 82 Mitarbeitern, davon 12 Auszubildende. Neben dem Betriebsrat gibt es auch eine Jugend- und Auszubildendenvertretung. Für das neue Ausbildungsjahr möchten Sie von 12 Bewerbungen 3 neue Azubis einstellen. Wer ist dabei zu beteiligen oder zu informieren? (2 richtige Antworten)",
+        "answers": [
+            "Der Inhaber",
+            "Die Gewerkschaft",
+            "Der Betriebsrat",
+            "Die Buchhaltung Situation zu den Fragen 14 bis 15 In Ihrem Betrieb sind 120 Mitarbeiter beschäftigt inkl. 34 jugendlicher Mitarbeiter/innen. Zusätzlich sind 20 Auszubildende im Alter von 16 bis 24 Jahren im Betrieb tätig. Es ist ein Betriebsrat vorhanden, der eine Jugend- und Auszubildendenvertretung gründen möchte."
+        ],
+        "answer": "a,c"
+    },
+    {
+        "type": 1,
+        "question": "Ist das möglich? (2 richtige Antworten)",
+        "answers": [
+            "Nein, die Gründung der Jugend- und Auszubildendenvertretung ist nicht möglich, da es schon einen Betriebsrat gibt.",
+            "Ja, es sind mehr als fünf Auszubildende unter 25 Jahren beschäftigt.",
+            "Ja, es sind mehr als 5 jugendliche Arbeitnehmer/innen dauerhaft beschäftigt.",
+            "Nein, die Anzahl der jugendlichen Mitarbeiter/innen reicht nicht aus."
+        ],
+        "answer": "b,c"
+    },
+    {
+        "type": 0,
+        "question": "Welche Auszubildenden können in die Jugend- und Auszubildendenvertretung gewählt werden? (1 richtige Antwort)",
+        "answers": [
+            "Nur Auszubildende, die Mitglied in der Gewerkschaft sind.",
+            "Nur Auszubildende, die Mitglied des Betriebsrates sind.",
+            "Alle Auszubildenden, die unter 25 Jahre alt sind.",
+            "Alle Auszubildende / Umschüler unabhängig vom Alter."
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Der Auszubildende Peter Müller kann Aufgabenstellungen nicht richtig verstehen  und umsetzen. Er soll zusammen mit der Auszubildenden Gitta Gut einen neuen Ausbildungsinhalt erarbeiten. Welche Funktion haben Sie als Ausbilder um das „selbstgesteuerte Lernen“ zu ermöglichen? (1 richtige Antwort)",
+        "answers": [
+            "Sie greifen sofort ein, wenn sich ein Fehler anbahnt.",
+            "Sie halten sich komplett aus dem „selbstgesteuerten Lernen“ heraus.",
+            "Der Ausbildungsinhalt wurde von Ihnen so vorbereitet, dass er selbständig von den beiden Auszubildenden gelöst werden kann.",
+            "Sie brechen die Ausbildung ab, wenn Peter Müller nicht mehr mitkommt und übertragen Gitta Gut die alleinige Weiterarbeit."
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Die Auszubildenden Jochen Müller und Beate Weinrich haben ihre Ausbildung beendet. Sie werden beauftragt ein Arbeitszeugnis auszustellen. Beate Weinrich wünscht ein qualifiziertes Zeugnis. Welcher Text weist auf ein qualifiziertes Ausbildungszeugnis hin? (1 richtige Antwort)",
+        "answers": [
+            "Das Einzelhandelsgeschäft Müller ist seit über 80 Jahren in Neustadt tätig.",
+            "Frau Beate Weinrich hat ihre Ausbildung am 25.08… mit Erfolg abgeschlossen.",
+            "Frau Weinrich wurde im dritten Lehrjahr in der Filiale in Oldenburg eingesetzt.",
+            "Frau Weinrich hat im dritten Ausbildungsjahr die Filiale in Oldenburg in Abwesenheit der Filialleiterin zu unserer vollen Zufriedenheit geführt. Sie konnte durch neue Ideen überzeugen."
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 1,
+        "question": "Leider kann Jochen Müller nach der Ausbildung nicht übernommen werden. Welche Aussagen sind richtig? (2 richtige Antworten)",
+        "answers": [
+            "Sie müssen nicht kündigen, da der Ausbildungsvertrag ein befristeter Vertrag ist.",
+            "Sie müssen Jochen Müller 3 Monate vor Beendigung der Ausbildung schriftlich kündigen.",
+            "Sie müssen Jochen Müller in ein festes Arbeitsverhältnis übernehmen, wenn Sie nicht fristgerecht gekündigt haben.",
+            "Sie sollten Jochen Müller rechtzeitig informieren, damit er auf dem Arbeitsmarkt aktiv werden kann."
+        ],
+        "answer": "a,d"
+    },
+    {
+        "type": 0,
+        "question": "Der Baumarkt „Baucenter Neustadt“ hat Öffnungszeiten von 7.00 Uhr bis 20.00 Uhr. Der Auszubildende Wolfgang hat dienstags ab 8.50 Uhr Berufsschulunterricht im gleichen Ort. Der Ausbilder möchte, dass Wolfgang vorher von 7.00 Uhr bis 8.15 noch im Betrieb arbeitet, da die Berufsschule in der Nähe ist. Muss Wolfgang vor der Berufsschule arbeiten? (1 richtige Antwort)",
+        "answers": [
+            "Ja, die Entscheidung liegt beim Arbeitgeber, ob vor der Berufsschule gearbeitet werden soll.",
+            "Nein, wenn der Berufsschulunterricht vor 9.00 Uhr beginnt, darf vorher nicht gearbeitet werden.",
+            "Ja, der Besuch der Berufsschule ist freiwillig. Die Arbeit hat Vorrang.",
+            "Ja, der Arbeitgeber kann einen Antrag bei der zuständigen Stelle / IHK stellen."
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "Während der vereinbarten Probezeit von 3 Monaten ist die neue Auszubildende Roswitha 32 Tage krank. Sie möchte deshalb die Probezeit verlängern. Ist das möglich? Welche Aussage ist richtig? (1 richtige Antwort)",
+        "answers": [
+            "Die Probezeit kann nicht verlängert werden.",
+            "Eine so lange Krankheit in der Probezeit führt automatisch zu einer fristlosen Kündigung.",
+            "Eine Verlängerung ist möglich, da Roswitha 1/3 der Probezeit krank ist und wenn diese Möglichkeit vorher vereinbart wurde.",
+            "Eine Verlängerung um höchstens 2 Wochen aufgrund von Krankheit ist nach dem Berufsbildungsgesetz (BBiG) möglich. "
+        ],
+        "answer": "c"
+    },
+    {
+        "type": 0,
+        "question": "Sie erfahren, dass die IHK Prüfer für die Abschlussprüfung sucht. Da Sie seit 6 Jahren für die Ausbildung der Bürokaufmänner/Bürokauffrauen verantwortlich sind, interessieren Sie sich für diese Tätigkeit. Sie möchten jedoch wissen, wer die Kosten für Ihre Tätigkeit als Prüfer trägt. (1 richtige Antwort)",
+        "answers": [
+            "Sie haben mit 6 Jahren noch nicht genügend Praxis für die Tätigkeit als Prüfer gesammelt.",
+            "Für Auslagen und für seine Prüfungszeit erhält der Prüfer von der zuständigen Stelle eine Entschädigung.",
+            "Ihr Arbeitgeber hat für alle Kosten aufzukommen, da in Ihrem Betrieb ausgebildet wird.",
+            "Als Prüfer tragen Sie die Kosten selber."
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 1,
+        "question": "Welche Vorteile ergeben sich aus einer Tätigkeit als Prüfer? (2 richtige Antworten)",
+        "answers": [
+            "Sie bekommen die Prüfungsfragen vorab und können somit den eigenen Auszubildenden Tipps zur Prüfung geben.",
+            "Sie können Erfahrungen mit anderen Prüfern austauschen.",
+            "Sie erhalten Informationen zum Ablauf von Prüfungen und zur Entwicklung des Berufes.",
+            "Sie können Einfluß auf die Benotung Ihrer Auszubildenden nehmen."
+        ],
+        "answer": "b,c"
+    },
+    {
+        "type": 1,
+        "question": "Wilhelm Müller hat die Aufgabe als Ausbilder von einem ausscheidenden Kollegen übernommen. Er möchte die Auszubildenden jetzt selbständig lernen und arbeiten lassen. Wie kann das erreicht werden? (2 richtige Antworten)",
+        "answers": [
+            "Durch Erfolgserlebnisse wird die Motivation erhöht.",
+            "Den Auszubildenden wird die Führungsverantwortung übertragen.",
+            "Sie werden eine Arbeitsatmosphäre schaffen, die selbständiges Arbeiten ermöglicht.",
+            "Die Auszubildenden können ihre Arbeit ohne jegliche zeitliche Begrenzung ausführen."
+        ],
+        "answer": "a,c"
+    },
+    {
+        "type": 0,
+        "question": "Hermann Harms ist Eigentümer der Firma Harms Metallbau mit 10 Angestellen. Er möchte erstmalig in seinem Betrieb ausbilden, kann aber nicht alle Ausbildungsinhalte in seinem Betrieb abdecken. Was kann er tun? (1 richtige Antwort)",
+        "answers": [
+            "Er lässt den Ausbildungsinhalt weg, der nicht im Betrieb vermittelt werden kann.",
+            "In Zusammenarbeit mit der zuständigen Stelle / Ausbildungsberater wird ein Kooperationsbetrieb gesucht, der die Ausbildungsinhalte übernehmen kann.",
+            "In Zusammenarbeit mit der zuständigen Stelle wird ein Sonderstatus erwirkt, um trotzdem ausbilden zu können.",
+            "Die Ausbildungsinhalte werden auf die Berufsschule übertragen."
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 1,
+        "question": "Hermann Harms ist Eigentümer der Firma Harms Metallbau mit 10 Angestellen und will einen betrieblichen Ausbildungsplan erstellen. Was ist zu beachten? (2 richtige Antworten)",
+        "answers": [
+            "Ausbildungsinhalte werden zu Ausbildungseinheiten zusammen gefasst.",
+            "Hermann Harms besorgt sich die letzten Abschlussprüfungen, um daraus einen Ausbildungsplan zu erstellen, der gute Prüfungsergebnisse ermöglicht.",
+            "Nach sachlichen und pädagogischen Kriterien wird eine zeitliche Gliederung der Ausbildungsinhalte erstellt.",
+            "Die Ausbildung erfolgt hauptsächlich in den ruhigen Zeiten, um den betrieblichen Ablauf nicht zu stören."
+        ],
+        "answer": "a,c"
+    },
+    {
+        "type": 0,
+        "question": "Hermann Harms ist Eigentümer der Firma Harms Metallbau mit 10 Angestellen und wird von einem Mitarbeiter angesprochen, dessen Sohn Jörg Waller eine verkürzte Ausbildung anstrebt. Wer kann Herrmann Harms verbindliche Auskunft darüber geben, ob eine Verkürzung der Ausbildung für Jörg Waller möglich ist? (1 richtige Antwort)",
+        "answers": [
+            "Ein Mitglied des Prüfungsausschusses",
+            "Der Ausbildungsberater der IHK / Handwerkskammer",
+            "Der Betriebsrat",
+            "Der Berufsschullehrer"
+        ],
+        "answer": "b"
+    },
+    {
+        "type": 0,
+        "question": "Hermann Harms ist Eigentümer der Firma Harms Metallbau mit 10 Angestellen und für die Auszubildenden unter 18 Jahren will er auch die Pausen überprüfen. Der Arbeitsbeginn ist immer um 7.30 Uhr. Die Arbeitszeit beträgt 8 Stunden. Welche Pausenregelung ist nach dem Gesetz zulässig? (1 richtige Antwort)",
+        "answers": [
+            "1. Pause von 10.00 bis 10.30 Uhr, 2. Pause von 12.30 bis 13.00 Uhr",
+            "Eine Pause von 11.30 bis 12.15 Uhr",
+            "1. Pause von 12.30 bis 13.00 Uhr, 2. Pause von 14.30 bis 15.00 Uhr",
+            "1. Pause von 10.15 bis 10.30 Uhr, 2. Pause von 12.45 bis 13.15 Uhr"
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 1,
+        "question": "Die beiden Auszubildenden Petra (16 Jahre) und Jochen (17 Jahre) haben ihre Ausbildung gerade begonnen und zeigen mitunter Ermüdungserscheinungen. Woran könnte das liegen? (3 richtige Antworten)",
+        "answers": [
+            "Die Auszubildenden haben den falschen Ausbildungsberuf gewählt.",
+            "Die beiden Auszubildenden sind noch in der körperlichen Entwicklung.",
+            "Sie finden die zugeteilten Aufgaben langweilig.",
+            "Sie haben sich noch nicht an die körperlichen Anforderungen des Ausbildungsberufes gewöhnt."
+        ],
+        "answer": "b,c,d"
+    },
+    {
+        "type": 0,
+        "question": "Sie erfahren von der Berufsschule, dass der Auszubildende Gerd im letzten Monat 3 Berufsschultage unentschuldigt gefehlt hat. Am letzten Berufsschultag wurde der Unterricht nach der 4. Stunde beendet und Gerd hätte zum Betrieb kommen müssen, was er nicht getan hat. Wie reagieren Sie im rechtlichen Sinne? (1 richtige Antwort)",
+        "answers": [
+            "Sie kündigen das Ausbildungsverhältnis fristlos.",
+            "Sie kündigen das Ausbildungsverhältnis innerhalb der gesetzlichen Frist.",
+            "Sie kürzen die Ausbildungsvergütung um 25 %.",
+            "Sie erteilen eine schriftliche Abmahnung."
+        ],
+        "answer": "d"
+    },
+    {
+        "type": 1,
+        "question": "Sie erfahren von der Berufsschule, dass der Auszubildende Gerd im letzten Monat 3 Berufsschultage unentschuldigt gefehlt hat. Am letzten Berufsschultag wurde der Unterricht nach der 4. Stunde beendet und Gerd hätte zum Betrieb kommen müssen, was er nicht getan hat. Wie reagieren Sie im pädagogischen Sinne? (2 richtige Antworten)",
+        "answers": [
+            "Sie führen mit Gerd ein Gespräch, um Gründe für das Fehlen zu erfragen.",
+            "Sie lassen es bei der Abmahnung beruhen.",
+            "Sie nehmen mit der Berufsschule Kontakt auf. Vielleicht liegen die Gründe dort.",
+            "Sie forschen im privaten Umfeld von Gerd nach Gründen."
+        ],
+        "answer": "a,c"
+    },
+    {
+        "type": 1,
+        "question": "Sie übernehmen in einem Betrieb einen Auszubildenden. Leo Lafer ist 17 Jahre alt und im zweiten Lehrjahr. Er ist lustlos und teilnahmslos. Er wird von den Gesellen hauptsächlich für Hilfsarbeiten eingesetzt. Was kann zu diesem Verhalten geführt haben? (3 richtige Antworten)",
+        "answers": [
+            "Leo hat die Freude an der Arbeit und somit das Interesse verloren.",
+            "Leo wird von den Gesellen nur für Hilfsarbeiten eingesetzt und wird somit nicht motiviert.",
+            "Die Berufsschule hat versäumt, seinen Ehrgeiz zu wecken.",
+            "Leo hat keine Gelegenheit, qualifizierte Aufgaben zu bearbeiten und Erfolgserlebnisse zu generieren."
+        ],
+        "answer": "a,b,d"
+    },
+    {
+        "type": 0,
+        "question": "Sie übernehmen in einem Betrieb einen Auszubildenden. Leo Lafer ist 17 Jahre alt und im zweiten Lehrjahr. Er ist lustlos und teilnahmslos. Er wird von den Gesellen hauptsächlich für Hilfsarbeiten eingesetzt. Wie kann die Ausbildungssituation für Leo Lafer verändert werden? (1 richtige Antwort)",
+        "answers": [
+            "Alle Beteiligten - auch die Gesellen - müssen sich verantwortungsvoll an der Ausbildung von Leo beteiligen.",
+            "Die Eltern müssen eingebunden werden, um Leo zum Erfolg der Ausbildung zu verhelfen.",
+            "Die Berufsschule muss Leo stärker motivieren.",
+            "Leo muss vermittelt werden, dass er stärker eine qualifizierte Ausbildung fordern muss. "
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 1,
+        "question": "Sie übernehmen in einem Betrieb einen Auszubildenden. Leo Lafer ist 17 Jahre alt und im zweiten Lehrjahr. Er ist lustlos und teilnahmslos. Er wird von den Gesellen hauptsächlich für Hilfsarbeiten eingesetzt. Wie kann die praktische Ausbildung für Leo verbessert werden? (2 richtige Antworten)",
+        "answers": [
+            "Komplexe Aufgaben werden in Teilaufgaben unterteilt.",
+            "Es werden nur Aufgaben gestellt, die dem Interesse von Leo entgegenkommen.",
+            "Solange er kein vermehrtes Interesse zeigt, ist er weiter mit Hilfsarbeiten zu beschäftigen.",
+            "Die Einbeziehung in das Team verbessern, so dass er von der Erfahrung der Gesellen profitieren kann."
+        ],
+        "answer": "a,d"
+    },
+    {
+        "type": 1,
+        "question": "Peter Willert ist 16 Jahre alt und wird im Einzelhandelsgeschäft Porzellan Kranich als Auszubildender neu eingestellt. Der Inhaber Karl Kranich überträgt die Ausbildung an seinen langjährigen und erfahrenen Mitarbeiter Heiko Fuchs, der auch eine Ausbildereignungsprüfung abgelegt hat. Wer ist der Ausbildende und wer ist der Ausbilder? (2 richtige Antworten)",
+        "answers": [
+            "Karl Kranich ist der Ausbildende.",
+            "Heiko Fuchs ist der Ausbildende.",
+            "Peter Willert ist der Ausbildende und Ausbilder.",
+            "Heiko Fuchs ist der Ausbilder."
+        ],
+        "answer": "a,d"
+    },
+    {
+        "type": 0,
+        "question": "Peter Willert ist 16 Jahre alt und wird im Einzelhandelsgeschäft Porzellan Kranich als Auszubildender neu eingestellt. Der Inhaber Karl Kranich überträgt die Ausbildung an seinen langjährigen und erfahrenen Mitarbeiter Heiko Fuchs, der auch eine Ausbildereignungsprüfung abgelegt hat. Karl Kranich ist sich am 16.04. mit dem Azubi Peter Willert und den Eltern einig geworden, dass Peter seine Ausbildung zum 01.09. beginnen wird. Der Ausbildungsvertrag wird am 16.05. unterschrieben von Peter Willert und seinen Eltern zurückgeschickt. Wann wurde der Vertrag rechtlich abgeschlossen? (1 richtige Antwort)",
+        "answers": [
+            "Am 16.04.",
+            "Am 01.09.",
+            "Am 16.05.",
+            "Mit der Eintragung in das Verzeichnis der Ausbildungsverträge bei der IHK."
+        ],
+        "answer": "a"
+    },
+    {
+        "type": 1,
+        "question": "Welche im Ausbildungsvertrag verwendeten Formulierungen sind zulässig? (2 richtige Antworten)",
+        "answers": [
+            "Die Probezeit dauert 5 Monate.",
+            "Die regelmäßige Arbeitszeit beträgt 8 Stunden.",
+            "Die Kündigungsfrist in der Probezeit beträgt 14 Werktage.",
+            "Im dritten Jahr erfolgt ein Teil der Ausbildung in der Zweigstelle am Marktplatz."
+        ],
+        "answer": "b,d"
+    },
+    {
+        "type": 1,
+        "question": "Sie sind für die Ausbildung von 3 neuen KFZ- Mechatronikern zuständig, die sich noch in der Probezeit befinden. Sie haben die Azubis angewiesen, ihre Ausbildungsnachweise regelmäßig zum Wochenanfang vorzulegen. Das klappt auch ganz gut. Nur Peter Müller hält sich nicht daran. Nach einem Hinweis Ihrerseits sind jetzt 3 Wochen vergangen. Jetzt haben Sie Peter Müller in Ihr Büro bestellt. Welche Vorbereitungen auf das Gespräch wären sinnvoll? (3 richtige Antworten)",
+        "answers": [
+            "Sie überlegen sich Strafen, falls Peter Müller mit Ausreden sein Handeln entschuldigen will.",
+            "Sie nehmen sich Zeit für das Gespräch.",
+            "Sie sorgen dafür, dass das Gespräch ohne Störungen stattfinden kann.",
+            "Sie nennen Peter Müller den Grund für das Gespräch, damit er sich dazu Gedanken machen kann."
+        ],
+        "answer": "b,c,d"
+    },
+    {
+        "type": 1,
+        "question": "Sie sind für die Ausbildung von 3 neuen KFZ- Mechatronikern zuständig, die sich noch in der Probezeit befinden. Sie haben die Azubis angewiesen, ihre Ausbildungsnachweise regelmäßig zum Wochenanfang vorzulegen. Das klappt auch ganz gut. Nur Peter Müller hält sich nicht daran. Nach einem Hinweis Ihrerseits sind jetzt 3 Wochen vergangen. Jetzt haben Sie Peter Müller in Ihr Büro bestellt.Welche rechtlichen Argumente können Sie bezüglich der Pflicht zur Führung des Ausbildungsnachweises nennen? (2 richtige Antworten)",
+        "answers": [
+            "Das ordentliche Führen und Vorlegen steht im Berufsausbildungsvertrag, den Peter Müller unterschrieben hat.",
+            "Die Berufsschulordnung der Länder schreibt die Führung des Ausbildungsnachweises vor.",
+            "Die zuständige Stelle / Kammer kontrolliert in regelmäßigen Abständen die Ausbildungsnachweise. Bei Nichtvorliegen kann das Ausbildungsverhältnis annulliert werden.",
+            "Laut Berufsbildungsgesetz (BBiG) ist das Vorlegen der Ausbildungsnachweise eine Voraussetzung für die Zulassung zur Abschlussprüfung."
+        ],
+        "answer": "a,d"
+    },
+    {
+        "type": 1,
+        "question": "Sie sind für die Ausbildung von 3 neuen KFZ- Mechatronikern zuständig, die sich noch in der Probezeit befinden. Sie haben die Azubis angewiesen, ihre Ausbildungsnachweise regelmäßig zum Wochenanfang vorzulegen. Das klappt auch ganz gut. Nur Peter Müller hält sich nicht daran. Nach einem Hinweis Ihrerseits sind jetzt 3 Wochen vergangen. Jetzt haben Sie Peter Müller in Ihr Büro bestellt.Welche Punkte könnten zu einem guten, wirkungsvollen Gesprächsablauf beitragen? (2 richtige Antworten)",
+        "answers": [
+            "Eine freundliche Begrüßung",
+            "Sie drohen gleich zu Beginn des Gespräches mit Konsequenzen für sein Verhalten.",
+            "Sie stellen klar, dass Ihre Anweisungen sofort zu befolgen sind.",
+            "Das Gespräch wird mit einer Zusage zum Führen des Ausbildungsnachweises beendet. Die Konsequenzen bei nochmaligen Verstößen werden aufgezeigt."
+        ],
+        "answer": "a,d"
+    },
+    {
+        "type": 1,
+        "question": "Einige Unterlagen müssen vor der Abschlussprüfung bereitgehalten, kontrolliert oder verschickt werden. Worauf müssen Sie auf alle Fälle achten? (3 richtige Antworten)",
+        "answers": [
+            "Das Anmeldeformular für die Abschlussprüfung erstellen und rechtzeitig einreichen.",
+            "Die Berufsschulzeugnisse auf Vollständigkeit kontrollieren.",
+            "Das Vorhandensein der Teilnahmebescheinigung an der Zwischenprüfung überprüfen.",
+            "Die Ausbildungsnachweise überprüfen."
+        ],
+        "answer": "a,c,d"
+    },
+    {
+        "type": 1,
+        "question": "Welche rechtlichen Regelungen sind richtig zugeordnet? (2 Antworten)",
+        "answers": [
+            "Anhörungsrecht des Betriebsrates - Jugendarbeitsschutzgesetz",
+            "Pausenzeiten für Jugendliche - Jugendarbeitsschutzgesetz",
+            "Pflichten der Jugend- und Auszubildendenvertretung - Betriebsverfassungsgesetz",
+            "Höchstarbeitszeit bei Auszubildenden unter 18 Jahren - Betriebsverfassungsgesetz Situation zu den Fragen 14 - 15 Janne Scherenmann (16 Jahre) und Piet Dorben (17 Jahre) haben beide gerade ihre Ausbildung begonnen und möchten organisatorische Dinge von Ihnen wissen."
+        ],
+        "answer": "b,c"
+    },
+    {
+        "type": 1,
+        "question": "Sie möchten wissen, wer ihnen Anweisungen erteilen darf. Was antworten Sie? (2 richtige Antworten)",
+        "answers": [
+            "Der Ausbildende",
+            "Der Ausbilder sowie weitere weisungsberechtige Mitarbeiter/innen",
+            "Nur der Meister / Ausbilder in der entsprechenden Abteilung",
+            "Alle Fachkräfte, die eine dem Ausbildungsberuf entsprechende Ausbildung abgeschlossen haben."
+        ],
+        "answer": "a,b"
+    },
+    {
+        "type": 1,
+        "question": "Janne möchte wissen, ob sie nach dem Berufsschulunterricht am kommenden Dienstag noch zur Arbeit kommen muss. Sie hat 6 Unterrichtsstunden. Piet möchte wissen, ob er seinen Ausbildungsnachweis innerhalb oder außerhalb der Arbeitszeit führen soll. (2 richtige Antworten)",
+        "answers": [
+            "Janne ist von der Arbeit befreit, da sie mehr als 5 Unterrichtsstunden hat.",
+            "Janne muss zur Arbeit erscheinen, wenn der Berufsschulunterricht vor 13.00 Uhr endet.",
+            "Piet soll seinen Ausbildungsnachweis innerhalb der Arbeitszeit führen.",
+            "Ein Ausbildungsnachweis ist grundsätzlich außerhalb der Arbeitszeit zu führen."
+        ],
+        "answer": "a,c"
+    }
+]
