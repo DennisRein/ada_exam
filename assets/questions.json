@@ -67,7 +67,7 @@
     },
     {
         "type": 0,
-        "question": "Aufgrund des Personalfragebogens von Aufgabe 6 kommen 8 Bewerber/innen in die engere Auswahl. Welche Aufgabe wäre für einen weiteren Test geeignet?",
+        "question": "Sie verschicken an die Bewerber/innen für den Beruf Bürokauffrau / Bürokaufmann einen Personalfragebogen. Es kommen 8 Bewerber/innen in die engere Auswahl. Welche Aufgabe wäre für einen weiteren Test geeignet?",
         "answers": [
             "Sie prüfen mit einem Deutschtest die Sprachkenntnisse.",
             "Sie prüfen mit einem Sporttest die körperliche Belastbarkeit.",
@@ -78,7 +78,7 @@
     },
     {
         "type": 0,
-        "question": "Aufgrund der Testaufgaben in Aufgabe 7 hat sich eine geeignete Bewerberin herausgestellt. Jutta Müller ist 19 Jahre und freut sich auf ihre Ausbildung. Sie wollen mit ihr einen Ausbildungsvertrag abschließen. Welche Aussage ist richtig?",
+        "question": "Sie verschicken an die Bewerber/innen für den Beruf Bürokauffrau / Bürokaufmann einen Personalfragebogen. Es hat sich eine geeignete Bewerberin herausgestellt. Jutta Müller ist 19 Jahre und freut sich auf ihre Ausbildung. Sie wollen mit ihr einen Ausbildungsvertrag abschließen. Welche Aussage ist richtig?",
         "answers": [
             "Der Ausbildungsvertrag kommt zustande durch die Unterschrift von Jutta Müller und dem Vertreter des Ausbildungsbetriebes.",
             "Der Ausbildungsvertrag bedarf der Unterschrift der Eltern von Jutta Müller, da diese sie finanziell unterstützen.",
@@ -1476,7 +1476,7 @@
     },
     {
         "type": 0,
-        "question": "Welche Bedingung muss erfüllt sein, bevor Petra Petrel (aus Frage 6) als Auszubildende eingestellt werden kann?",
+        "question": "Die Auszubildende Petra Petrel wird eingestellt. Betriebsinhaber der Firma ist Jo Jonson, der seinem erfahrenen Mitarbeiter Peter Petersen die Ausbildung überträgt. Welche Bedingung muss erfüllt sein, bevor Petra Petrel als Auszubildende eingestellt werden kann?",
         "answers": [
             "Sie muss vorher ein Praktikum absolviert haben.",
             "Sie muss gut durch die Probezeit gekommen sein.",
@@ -1663,7 +1663,7 @@
     },
     {
         "type": 0,
-        "question": "Der Auszubildende aus Frage 8 soll technische Daten zur Kaffeemaschine nennen können, die ein Kunde nachfragt. Wie wird dieser Lernbereich genannt?",
+        "question": "Ein Auszubildender als Einzelhandelskaufmann der Firma Heese soll technische Daten zur Kaffeemaschine nennen können, die ein Kunde nachfragt. Wie wird dieser Lernbereich genannt?",
         "answers": [
             "Schulischer Lernbereich",
             "Psychomotorischer Lernbereich",
@@ -1674,7 +1674,7 @@
     },
     {
         "type": 0,
-        "question": "Der Auszubildende aus Frage 9 soll die fachgerechte Reinigung der Kaffeemaschine demonstrieren und erläutern. Dazu ist die Brühgruppe zu zerlegen. Wie wird dieser Lernbereich genannt?",
+        "question": "Ein Auszubildender als Einzelhandelskaufmann der Firma Heese soll die fachgerechte Reinigung der Kaffeemaschine demonstrieren und erläutern. Dazu ist die Brühgruppe zu zerlegen. Wie wird dieser Lernbereich genannt?",
         "answers": [
             "Affektiv-kognitiver Lernbereich",
             "Psychomotorischer Lernbereich",
@@ -1883,13 +1883,13 @@
             "Der Inhaber",
             "Die Gewerkschaft",
             "Der Betriebsrat",
-            "Die Buchhaltung Situation zu den Fragen 14 bis 15 In Ihrem Betrieb sind 120 Mitarbeiter beschäftigt inkl. 34 jugendlicher Mitarbeiter/innen. Zusätzlich sind 20 Auszubildende im Alter von 16 bis 24 Jahren im Betrieb tätig. Es ist ein Betriebsrat vorhanden, der eine Jugend- und Auszubildendenvertretung gründen möchte."
+            "Die Buchhaltung"
         ],
         "answer": "a,c"
     },
     {
         "type": 1,
-        "question": "Ist das möglich? (2 richtige Antworten)",
+        "question": "In Ihrem Betrieb sind 120 Mitarbeiter beschäftigt inkl. 34 jugendlicher Mitarbeiter/innen. Zusätzlich sind 20 Auszubildende im Alter von 16 bis 24 Jahren im Betrieb tätig. Es ist ein Betriebsrat vorhanden, der eine Jugend- und Auszubildendenvertretung gründen möchte. Ist das möglich? (2 richtige Antworten)",
         "answers": [
             "Nein, die Gründung der Jugend- und Auszubildendenvertretung ist nicht möglich, da es schon einen Betriebsrat gibt.",
             "Ja, es sind mehr als fünf Auszubildende unter 25 Jahren beschäftigt.",
@@ -1900,7 +1900,7 @@
     },
     {
         "type": 0,
-        "question": "Welche Auszubildenden können in die Jugend- und Auszubildendenvertretung gewählt werden? (1 richtige Antwort)",
+        "question": "In Ihrem Betrieb sind 120 Mitarbeiter beschäftigt inkl. 34 jugendlicher Mitarbeiter/innen. Zusätzlich sind 20 Auszubildende im Alter von 16 bis 24 Jahren im Betrieb tätig. Es ist ein Betriebsrat vorhanden, der eine Jugend- und Auszubildendenvertretung gründen möchte. Welche Auszubildenden können in die Jugend- und Auszubildendenvertretung gewählt werden? (1 richtige Antwort)",
         "answers": [
             "Nur Auszubildende, die Mitglied in der Gewerkschaft sind.",
             "Nur Auszubildende, die Mitglied des Betriebsrates sind.",
@@ -2191,13 +2191,13 @@
             "Anhörungsrecht des Betriebsrates - Jugendarbeitsschutzgesetz",
             "Pausenzeiten für Jugendliche - Jugendarbeitsschutzgesetz",
             "Pflichten der Jugend- und Auszubildendenvertretung - Betriebsverfassungsgesetz",
-            "Höchstarbeitszeit bei Auszubildenden unter 18 Jahren - Betriebsverfassungsgesetz Situation zu den Fragen 14 - 15 Janne Scherenmann (16 Jahre) und Piet Dorben (17 Jahre) haben beide gerade ihre Ausbildung begonnen und möchten organisatorische Dinge von Ihnen wissen."
+            "Höchstarbeitszeit bei Auszubildenden unter 18 Jahren - Betriebsverfassungsgesetz"
         ],
         "answer": "b,c"
     },
     {
         "type": 1,
-        "question": "Sie möchten wissen, wer ihnen Anweisungen erteilen darf. Was antworten Sie? (2 richtige Antworten)",
+        "question": "Janne Scherenmann (16 Jahre) und Piet Dorben (17 Jahre) haben beide gerade ihre Ausbildung begonnen und möchten organisatorische Dinge von Ihnen wissen. Sie möchten wissen, wer ihnen Anweisungen erteilen darf. Was antworten Sie? (2 richtige Antworten)",
         "answers": [
             "Der Ausbildende",
             "Der Ausbilder sowie weitere weisungsberechtige Mitarbeiter/innen",
@@ -2208,7 +2208,7 @@
     },
     {
         "type": 1,
-        "question": "Janne möchte wissen, ob sie nach dem Berufsschulunterricht am kommenden Dienstag noch zur Arbeit kommen muss. Sie hat 6 Unterrichtsstunden. Piet möchte wissen, ob er seinen Ausbildungsnachweis innerhalb oder außerhalb der Arbeitszeit führen soll. (2 richtige Antworten)",
+        "question": "Janne Scherenmann (16 Jahre) und Piet Dorben (17 Jahre) haben beide gerade ihre Ausbildung begonnen und möchten organisatorische Dinge von Ihnen wissen. Janne möchte wissen, ob sie nach dem Berufsschulunterricht am kommenden Dienstag noch zur Arbeit kommen muss. Sie hat 6 Unterrichtsstunden. Piet möchte wissen, ob er seinen Ausbildungsnachweis innerhalb oder außerhalb der Arbeitszeit führen soll. (2 richtige Antworten)",
         "answers": [
             "Janne ist von der Arbeit befreit, da sie mehr als 5 Unterrichtsstunden hat.",
             "Janne muss zur Arbeit erscheinen, wenn der Berufsschulunterricht vor 13.00 Uhr endet.",

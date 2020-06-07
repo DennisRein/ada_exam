@@ -131,11 +131,20 @@ class _SolvedQuestionState extends State<SolvedQuestion> {
             ],
           ),
         ),
-        floatingActionButton: FloatingActionButton(
-            child: Icon(Icons.navigate_next),
-            onPressed: () {
-              _navPage(context);
-            }));
+        floatingActionButton: ButtonBar(
+          children: <Widget>[
+            if(index > 0) FloatingActionButton(
+              heroTag: null,
+              onPressed: () => Navigator.of(context).pop(),
+              child: Icon(Icons.arrow_back_ios),
+            ),
+            FloatingActionButton(
+                child: Icon(Icons.arrow_forward_ios),
+                onPressed: () {
+                  _navPage(context);
+                }),
+          ],
+        ));
   }
 
   String _getText(int index) {

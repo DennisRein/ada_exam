@@ -1,6 +1,7 @@
 import 'package:ada_exam/question.dart';
 import 'package:ada_exam/question_utils.dart';
 import 'package:ada_exam/solved_question_card.dart';
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class NormalQuestion extends StatefulWidget {
@@ -38,10 +39,13 @@ class _NormalQuestionState extends State<NormalQuestion> {
             padding: const EdgeInsets.fromLTRB(0, 20.0, 0, 0),
             child: Align(
               alignment: Alignment.center,
-              child: Text(
-                q.question,
-                style: Theme.of(context).textTheme.subtitle1,
-                textAlign: TextAlign.center,
+              child: SingleChildScrollView(
+                scrollDirection: Axis.vertical,
+                child: Text(
+                  q.question,
+                  style: Theme.of(context).textTheme.subtitle1,
+                  textAlign: TextAlign.center,
+                ),
               ),
             ),
           ),
@@ -112,13 +116,17 @@ class _NormalQuestionState extends State<NormalQuestion> {
             ],
           ),
         ),
-        floatingActionButton: FloatingActionButton(
-            child: Icon(Icons.navigate_next),
-            onPressed: () {
-              if(selected != null) Utils.addAnswer(q, selected);
-              if (selectedList.length > 0) Utils.addAnswer(q, selectedList);
-              if (selectedMap.keys.length > 0) Utils.addAnswer(q, selectedMap);
-              if(selected != null || selectedMap.length + selectedList.length > 0) _navPage(context);})
+        floatingActionButton: ButtonBar(
+          children: <Widget>[
+            FloatingActionButton(
+              child: Icon(Icons.arrow_forward_ios),
+              onPressed: () {
+                if(selected != null) Utils.addAnswer(q, selected);
+                if (selectedList.length > 0) Utils.addAnswer(q, selectedList);
+                if (selectedMap.keys.length > 0) Utils.addAnswer(q, selectedMap);
+                if(selected != null || selectedMap.length + selectedList.length > 0) _navPage(context);}),
+          ]
+        )
     );
 
   }
